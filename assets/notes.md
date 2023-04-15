@@ -12,7 +12,7 @@ Homework
 - what is happening when your browser loads a website, how does it know what your display, how do the website know you have logged in and not someone else
 _______
 
-Homeword
+Homework
 
 <img width="1279" alt="network tab" src="https://user-images.githubusercontent.com/69569412/232207327-01450f71-767b-4cce-90bc-71cc3ae952f2.png">
 
