@@ -10,10 +10,25 @@ Homework
 - how does the internet work
 - what is a request, response 
 - what is happening when your browser loads a website, how does it know what your display, how do the website know you have logged in and not someone else
+_______
+
+Homeword
+
+<img width="1279" alt="network tab" src="https://user-images.githubusercontent.com/69569412/232207327-01450f71-767b-4cce-90bc-71cc3ae952f2.png">
+
+HTTP request
+Your snail mail letter is the Request
+The letter from your penpas is the Response
+
+The main HTTP methods are:
+
+GET 
+PUT 
+POST
+DELETE
 
 
+Sources: 
+https://backend.turing.edu/module2/lessons/how_the_web_works_http
 
-
-
-<img width="1279" alt="network tab" src="https://user-images.githubusercontent.com/69569412/232205452-ef80c045-0ad4-48f6-aa4e-023cf6722497.png">
-
+https://rapidapi.com/blog/api-glossary/http-request-methods/
