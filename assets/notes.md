@@ -11,5 +11,9 @@ Homework
 - what is a request, response 
 - what is happening when your browser loads a website, how does it know what your display, how do the website know you have logged in and not someone else
 
-------
+
+
+
+
+<img width="1279" alt="network tab" src="https://user-images.githubusercontent.com/69569412/232205452-ef80c045-0ad4-48f6-aa4e-023cf6722497.png">
 
