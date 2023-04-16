@@ -7,12 +7,17 @@ Week 1 Intro Bug Bounty 101
 - InsiderPhd used Burp community edition for 12 months
 
 Homework
-- how does the internet work
-- what is a request, response 
+- how does the internet work?
+- what is a request, response? 
 - what is happening when your browser loads a website, how does it know what your display, how do the website know you have logged in and not someone else
 _______
 
 Homework
+
+How does the internet work?
+'Everything on the internet email, cat videos, dog videos all come down to those ones and zeros being delivered by electronic pulses, light beams, radio waves.'
+
+
 
 <img width="1279" alt="network tab" src="https://user-images.githubusercontent.com/69569412/232207327-01450f71-767b-4cce-90bc-71cc3ae952f2.png">
 
@@ -29,6 +34,4 @@ DELETE
 
 
 Sources: 
-https://backend.turing.edu/module2/lessons/how_the_web_works_http
-
-https://rapidapi.com/blog/api-glossary/http-request-methods/
+Code.org https://youtu.be/ZhEf7e4kopM
