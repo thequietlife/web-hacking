@@ -17,20 +17,33 @@ Homework
 How does the internet work?
 'Everything on the internet email, cat videos, dog videos all come down to those ones and zeros being delivered by electronic pulses, light beams, radio waves.'
 
+**I**nternet **P**rotocol
+IP = a computer's address
+organized in a hierarchy
+
+174.129.14.120 
+10101110 10000001 00001110 01111000 (32 bits)
+
+IPv4 174.129.14.120 
+
+IPv6 3FFE: F200: 0234: AB00: 0123: 4567: 8901: ABCD (128 bits)
+     
+3FFE = 0011 1111 1111 1110
+F200 = 1111 0010 0000 0000
+
+**D**omain
+**N**ame
+**S**ystem
+
+DNS associates names like www.example.com with the corresponding IP
 
 
-<img width="1279" alt="network tab" src="https://user-images.githubusercontent.com/69569412/232207327-01450f71-767b-4cce-90bc-71cc3ae952f2.png">
 
-HTTP request
-Your snail mail letter is the Request
-The letter from your penpas is the Response
 
-The main HTTP methods are:
 
-GET 
-PUT 
-POST
-DELETE
+
+
+
 
 
 Sources: 
