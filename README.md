@@ -1,5 +1,4 @@
-🐱‍💻 Joting down my journey learning bug bounty hunting 🔫 🔫 pew pew
+🐱‍💻 Joting down my journey learning bug bounty hunting 
 
 > assets > notes
 
-🐇 🐢
