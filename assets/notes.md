@@ -37,7 +37,13 @@ F200 = 1111 0010 0000 0000
 
 DNS associates names like www.example.com with the corresponding IP
 
+____
 
+HTTP + HTML
+
+How is a photo sent to you?
+How is data delivered to you reliably?
+Broken down into packets. Each packet might take a different direction and some may arrive before others. 
 
 
 
