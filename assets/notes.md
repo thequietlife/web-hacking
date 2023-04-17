@@ -1,4 +1,4 @@
-Starting is hard, sticking with something is hard. There is so much information out there about bug bounty hunting. It can be overwhelming. I am following Bugcrowd's Bug Bounty 101 run by InsiderPhD.
+Starting is hard, sticking with something is hard. There is so much information out there about bug bounty hunting. It can be overwhelming. I am following Bugcrowd's Bug Bounty 101 run by InsiderPhD. And committing to putting in time everyday.
 
 Week 1 Intro Bug Bounty 101
 
