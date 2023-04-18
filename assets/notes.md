@@ -12,8 +12,6 @@ Homework
 - what is happening when your browser loads a website, how does it know what your display, how do the website know you have logged in and not someone else
 _______
 
-Homework
-
 How does the internet work?
 'Everything on the internet email, cat videos, dog videos all come down to those ones and zeros being delivered by electronic pulses, light beams, radio waves.'
 
@@ -39,16 +37,31 @@ DNS associates names like www.example.com with the corresponding IP
 
 ____
 
-HTTP + HTML
+Packets, Routing + Reliability
 
 How is a photo sent to you?
 How is data delivered to you reliably?
-Broken down into packets. Each packet might take a different direction and some may arrive before others. 
+- Broken down into packets. Each packet might take a different direction and some may arrive before others. 
+- Routers act like traffic managers to keep the packets moving through the networks smoothly
+- Internet protocol
+- Fault tolerant
+- Reliability
 
+**T**ransmission
+**C**ontrol
+**P**rotocol
 
+TCP does a full inventory and sends back acknowledgements of each packet received
+Once TCP verifies delivery the song you selected from Spotify will play
 
+- TCP + Router Systems are scalable
+- 8
+- 8,000,000,000 devices
 
+Principles of Fault Tolerance, Redundancy
 
+- the more routers we add the more reliable the internet becomes
+- it is easy to scale the internet
 
 
 
