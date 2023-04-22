@@ -8,8 +8,10 @@ Day 3 homework - packets, routing & reliability (packets of information, too man
 
 Day 4 bugcrowd, How does the internet work?
 TCP/IP (3-way handshake), Request, Response, DNS, DNS queries, DNS records, HTTP servers, proxies, HTTP Request/Response
-status codes, HTTP headers, GET + POST requests, cookies and sessions, cookies, HTML, CSS, JavaScript 
+status codes, HTTP headers, GET + POST requests, cookies and sessions, code
 
+Day 5
+more above then Burp
 
 
 source: 
