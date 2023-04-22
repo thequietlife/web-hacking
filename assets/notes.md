@@ -11,7 +11,7 @@ TCP/IP (3-way handshake), Request, Response, DNS, DNS queries, DNS records, HTTP
 status codes, HTTP headers, GET + POST requests, cookies and sessions, code
 
 Day 5
-Learning about DNS settings in practice by changing the domain name for the Pilar website
+Learning about DNS settings in practice by changing the domain name for the Pilar website, looking at dnschecker.org, HTTP servers
 
 
 
