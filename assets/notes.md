@@ -1,4 +1,4 @@
-Starting is hard, sticking with something is harder. There is so much information out there about bug bounty hunting. It can be overwhelming. I am following Bugcrowd's Bug Bounty 101 run by InsiderPhD. And committing to putting in time everyday. 
+Starting is hard, for me sticking with something is even harder. There is so much information out there about bug bounty hunting. It can be overwhelming. I am following Bugcrowd's Bug Bounty 101 run by InsiderPhD. And committing to putting in time everyday. 
 
 Day 1 homework - learning about computational thinking (decomposition, pattern recognition, loops, pattern generalization, algorithmn design)
 
