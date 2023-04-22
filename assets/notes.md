@@ -17,7 +17,7 @@ Learning about DNS settings in practice by changing the domain name for the Pila
 Homework install foxyproxy extension. Got Burp already.
 
 Day 6 
-
+Burp Suite
 
 
 
