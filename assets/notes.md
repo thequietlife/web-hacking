@@ -17,4 +17,6 @@ Homework install foxyproxy extension. Got Burp already.
 Day 6 set up tools to start 
 Burp (Community edition is fine for learning)
 Use one browser for hacking (Firefox)
-Getting extensions insiderphd recommends (1password, foxyproxy, firefox containers, cookie quick manager) 
+Getting extensions insiderphd recommends (password manager, foxyproxy, firefox containers, cookie quick manager) 
+
+Day 7 set up tools (extensions)
