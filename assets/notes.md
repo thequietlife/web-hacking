@@ -21,5 +21,5 @@ Getting extensions insiderphd recommends (password manager, foxyproxy, firefox c
 
 Day 7 set up tools (extensions)
 
-Day 8 get familiar with Burp - scope settings
+Day 8 get familiar with Burp - scope settings, how to add subdomains, make a change see what happens
 
