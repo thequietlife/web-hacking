@@ -20,3 +20,6 @@ Use one browser for hacking (Firefox)
 Getting extensions insiderphd recommends (password manager, foxyproxy, firefox containers, cookie quick manager) 
 
 Day 7 set up tools (extensions)
+
+Day 8 get familiar with Burp - scope settings
+
