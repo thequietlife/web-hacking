@@ -1,5 +1,7 @@
 Starting is hard, for me sticking with something is even harder. There is so much information out there about bug bounty hunting. It can be overwhelming. I am following Bugcrowd's Bug Bounty 101 run by InsiderPhD. And committing to putting in time everyday
 
+My goal is to be able to identify web vulnerabilities and get on the bugcrowd leaderboard
+
 Day 1 homework - learning about computational thinking (decomposition, pattern recognition, loops, pattern generalization, algorithmn design)
 
 Day 2 homework - what is the internet? bit sending, internet working protocol, IP addresses (IPv4, IPv6), DNS (look up domain names and get the associated IP)
