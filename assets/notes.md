@@ -1,4 +1,4 @@
-Starting is hard, for me sticking with something is even harder. There is so much information out there about bug bounty hunting. It can be overwhelming. I am following Bugcrowd's Bug Bounty 101 run by InsiderPhD. And committing to putting in time everyday. 
+Starting is hard, for me sticking with something is even harder. There is so much information out there about bug bounty hunting. It can be overwhelming. I am following Bugcrowd's Bug Bounty 101 run by InsiderPhD. And committing to putting in time everyday
 
 Day 1 homework - learning about computational thinking (decomposition, pattern recognition, loops, pattern generalization, algorithmn design)
 
@@ -10,9 +10,9 @@ Day 4 bugcrowd, how does the internet work?
 TCP/IP (3-way handshake), Request, Response, DNS, DNS queries, DNS records, HTTP servers, proxies, HTTP Request/Response
 status codes, HTTP headers, GET + POST requests, cookies and sessions, code
 
-Day 5 learning about DNS settings in practice by changing the domain name for the Pilar website, looking at dnschecker.org, HTTP servers, HTTP request/response. Have realised that the HTML I know from building landing pages is helping understand HTTP Requests. From the little code I know I recognise the structure of the HTML doc, the top with all the charset=UTF-8.
+Day 5 learning about DNS settings in practice by changing the domain name for the Pilar website, looking at dnschecker.org, HTTP servers, HTTP request/response. Have realised that the HTML I know from building landing pages is helping understand HTTP Requests. From the little code I know I recognise the structure of the HTML doc, the top with all the charset=UTF-8
 
-Homework install foxyproxy extension. Got Burp already.
+Homework install foxyproxy extension. Got Burp already
 
 Day 6 set up tools to start 
 Burp (Community edition is fine for learning)
@@ -21,5 +21,7 @@ Getting extensions insiderphd recommends (password manager, foxyproxy, firefox c
 
 Day 7 set up tools (extensions)
 
-Day 8 get familiar with Burp - scope settings, how to add subdomains, make a change see what happens
+Day 8, 9, 10 get familiar with Burp - scope settings, how to add subdomains, make a change see what happens. 
+
+The aim of using Burp is to make a change on the Request side and see if it makes a difference on the Response side - insiderphd deletes the cookie and that leads to a 302 error, not necessarily a vulnerability but shows the required approach
 
