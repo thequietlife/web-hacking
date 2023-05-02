@@ -25,5 +25,7 @@ Day 7 set up tools (extensions)
 
 Day 8, 9, 10 get familiar with Burp - scope settings, how to add subdomains, make a change see what happens. 
 
+Day 11 where are the IDs? UUID = No bug?
+
 The aim of using Burp is to make a change on the Request side and see if it makes a difference on the Response side - insiderphd deletes the cookie and that leads to a 302 error, not necessarily a vulnerability but shows the required approach
 
