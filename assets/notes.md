@@ -23,9 +23,17 @@ Getting extensions insiderphd recommends (password manager, foxyproxy, firefox c
 
 Day 7 set up tools (extensions)
 
-Day 8, 9, 10 get familiar with Burp - scope settings, how to add subdomains, make a change see what happens. 
+Day 8, 9, 10 get familiar with Burp - scope settings, how to add subdomains, make a change see what happens
+
+The aim of using Burp is to make a change on the Request side and see if it makes a difference on the Response side - insiderphd deletes the cookie and that leads to a 302 error, not necessarily a vulnerability but shows the required approach
 
 Day 11 where are the IDs? UUID = No bug?
 
-The aim of using Burp is to make a change on the Request side and see if it makes a difference on the Response side - insiderphd deletes the cookie and that leads to a 302 error, not necessarily a vulnerability but shows the required approach
+Day 12 How do we do this? Accessing something that without being logged on
+
+Day 13 Accessing another user's resource, important tip from InsiderPhd - if the action happens to Account B it is NOT AN IDOR. Logged into the Indeed program on Bugcrowd to follow InsiderPhd's demo
+
+Day 14 Demo time - play along at home time
+
+
 
