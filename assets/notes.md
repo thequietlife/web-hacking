@@ -2,6 +2,8 @@ Starting is hard, for me sticking with something is even harder. There is so muc
 
 My goal is to be able to identify web vulnerabilities and get on the bugcrowd leaderboard
 
+May 2023
+
 Day 1 homework - learning about computational thinking (decomposition, pattern recognition, loops, pattern generalization, algorithmn design)
 
 Day 2 homework - what is the internet? bit sending, internet working protocol, IP addresses (IPv4, IPv6), DNS (look up domain names and get the associated IP)
@@ -33,7 +35,7 @@ Day 12 How do we do this? Accessing something that without being logged on
 
 Day 13 Accessing another user's resource, important tip from InsiderPhd - if the action happens to Account B it is NOT AN IDOR. Logged into the Indeed program on Bugcrowd to follow InsiderPhd's demo
 
-Day 14 Demo time - play along at home time
+Day 14 Read blog post by Codingo suggesting where to start - Essential Badge PentestLab and then Authentication / Authorization Badge. Will do that in parallel with getting familiar with Burp and Access Control
 
 
 
