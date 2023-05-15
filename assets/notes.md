@@ -37,5 +37,9 @@ Day 13 Accessing another user's resource, important tip from InsiderPhd - if the
 
 Day 14 Read blog post by Codingo suggesting where to start - Essential Badge PentestLab and then Authentication / Authorization Badge. Will do that in parallel with getting familiar with Burp and Access Control
 
+Day 15 Watched 'How to Crush Bug Bounties in the first 12 Months' Bugcrowd YouTube video; and tried to fix DNS issue on other website
+
+Day 16 Checked the DNS records for website, not sure what the problem is. Partway through SafeStack SQL Injection tutorial
+
 
 
