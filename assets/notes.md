@@ -45,3 +45,4 @@ Day 17 Can I use an iphone 4s as a server - no, need newer version of iOS.
 
 Day 18 learning about SQL injection. New BC video dropped.
 
+Back from a road trip! 
