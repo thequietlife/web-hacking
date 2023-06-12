@@ -48,3 +48,5 @@ Day 18 learning about SQL injection. New BC video dropped.
 Back from a road trip! 
 
 Day 19 Been listening to critical thinking - a bug bounty podcast
+
+Day 20 The aim for this week is to start on pentesterlab and look at Atlassian on bugcrowd
