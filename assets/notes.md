@@ -53,3 +53,7 @@ Day 20 The aim for this week is to start on pentesterlab and look at Atlassian o
 
 Took a few days break from clicking away at the keyboard and did some reading on CTI.
 Ready to make a start. pew pew.
+
+Thu 22 June 2023
+Refresh of Burp (InsiderPhD Bugcrowd YT)
+Starting with Indeed
