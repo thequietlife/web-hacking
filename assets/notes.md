@@ -2,7 +2,7 @@ Starting is hard, for me sticking with something is even harder. There is so muc
 
 My goal is to be able to identify web vulnerabilities and get on the bugcrowd leaderboard
 
-May 2023
+**May 2023**
 
 Day 1 homework - learning about computational thinking (decomposition, pattern recognition, loops, pattern generalization, algorithmn design)
 
@@ -51,9 +51,10 @@ Day 19 Been listening to critical thinking - a bug bounty podcast
 
 Day 20 The aim for this week is to start on pentesterlab and look at Atlassian on bugcrowd
 
+**June 2023**
 Took a few days break from clicking away at the keyboard and did some reading on CTI.
 Ready to make a start. pew pew.
 
 Thu 22 June 2023
 Refresh of Burp (InsiderPhD Bugcrowd YT)
-Starting with Indeed
+Starting with Indeed (InsiderPhD Bugcrowd YT)
