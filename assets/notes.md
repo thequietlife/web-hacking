@@ -51,8 +51,6 @@ Day 19 Been listening to critical thinking - a bug bounty podcast
 
 Day 20 The aim for this week is to start on pentesterlab and look at Atlassian on bugcrowd
 
-``
-
 **June 2023**
 Took a few days break from clicking away at the keyboard and did some reading on CTI.
 Ready to make a start. pew pew.
@@ -66,3 +64,10 @@ In Burp added '^.+indeed\.com$' in Target scope so all the Indeed domains are in
 
 InsiderPhd's method
 set up two accounts in Indeed, or any domain that is going to be tested. 
+
+Here's a line for us to start with.
+
+This line is separated from the one above by two newlines, so it will be a *separate paragraph*.
+
+This line is also a separate paragraph, but...
+This line is only separated by a single newline, so it's a separate line in the *same paragraph*.
