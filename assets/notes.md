@@ -50,3 +50,6 @@ Back from a road trip!
 Day 19 Been listening to critical thinking - a bug bounty podcast
 
 Day 20 The aim for this week is to start on pentesterlab and look at Atlassian on bugcrowd
+
+Took a few days break from clicking away at the keyboard and did some reading on CTI.
+Ready to make a start. pew pew.
