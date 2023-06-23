@@ -65,3 +65,6 @@ In Burp added '^.+indeed\.com$' in Target scope so all the Indeed domains are in
 
 InsiderPhd's method
 set up two accounts in Indeed, or any domain that is going to be tested. 
+
+Fri 23 June 2023
+PentesterLab 
