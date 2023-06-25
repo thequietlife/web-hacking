@@ -68,3 +68,6 @@ set up two accounts in Indeed, or any domain that is going to be tested.
 
 Fri 23 June 2023
 PentesterLab 
+
+Sun 25 June 2023
+PentesterLab 
