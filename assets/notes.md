@@ -77,4 +77,4 @@ Mon 26 June 2023
 PentesterLab. Not much progress but got the badges appearing on Bugcrowd
 
 Tues 27 June 2023
-PentesterLab. Learning UNIX - similar to Terminal commands so at least not completely new material. Reinforces that I do know some stuff
+PentesterLab. Learning UNIX - similar to Terminal mac commands so at least not completely new material. Reinforces that I do know some stuff
