@@ -83,4 +83,5 @@ Sat 1 Jul + Sun 2 Jul
 Taking GitLab for a spin - learning about Git, CI/CD, runners, pipelines
 
 Tues 11 Jul
-Getting familiar with AWS cloud
+Getting familiar with AWS cloud, spinning up an instance
+PentesterLab - Unix
