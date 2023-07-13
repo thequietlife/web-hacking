@@ -86,5 +86,8 @@ Tues 11 Jul
 Getting familiar with AWS cloud, spinning up an instance
 PentesterLab - Unix
 
-Tues 12 Jul
+Wed 12 Jul
+PentesterLab - Unix
+
+Thurs 13 Jul
 PentesterLab - Unix
