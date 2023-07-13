@@ -91,3 +91,4 @@ PentesterLab - Unix
 
 Thurs 13 Jul
 PentesterLab - Unix
+Submitted a bug to apple - found something that didn't do what it is supposed to do. saw it a couple of weeks ago but yesterday it happened again. might as well submit and get apple to look at it
