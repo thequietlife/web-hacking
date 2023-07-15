@@ -92,3 +92,10 @@ PentesterLab - Unix
 Thurs 13 Jul
 PentesterLab - Unix
 Submitted a bug to apple - found something that didn't do what it is supposed to do. saw it a couple of weeks ago but yesterday it happened again. might as well submit and get apple to look at it
+
+Fri 14 Jul 
+Reading a blog post shared by syngularity0 written by Graham Helton - https://grahamhelton.com/blog/jobs/
+Really well written and great to see someones journey
+
+Sat 15 Jul
+Reading Bugcrowd's Inside the mind of a hacker 2023. Use of AI. Need to companies to increase scope.
