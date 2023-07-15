@@ -98,4 +98,5 @@ Reading a blog post shared by syngularity0 written by Graham Helton - https://gr
 Really well written and great to see someones journey
 
 Sat 15 Jul
-Reading Bugcrowd's Inside the mind of a hacker 2023. Use of AI. Need to companies to increase scope.
+Reading Bugcrowd's Inside the mind of a hacker 2023. Use of AI. Need to companies to increase scope
+Refresh of SQL injection
