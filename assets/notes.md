@@ -100,3 +100,7 @@ Really well written and great to see someones journey
 Sat 15 Jul
 Reading Bugcrowd's Inside the mind of a hacker 2023. Use of AI. Need to companies to increase scope
 Refresh of SQL injection
+
+Sun 16 Jul
+Finished reading Bugcrowd's Inside the mind of a hacker 2023. Important insights for companies to better understand researchers - motivations, backgrounds etc
+Watch YT video Bugcrowd interview with Casey Ellis
