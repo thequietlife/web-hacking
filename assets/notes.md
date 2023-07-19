@@ -104,3 +104,11 @@ Refresh of SQL injection
 Sun 16 Jul
 Finished reading Bugcrowd's Inside the mind of a hacker 2023. Important insights for companies to better understand researchers - motivations, backgrounds etc
 Watch YT video Bugcrowd interview with Casey Ellis
+
+Tues 17 Jul
+Time to get the hang of python scriptin. Downloaded PyCharm
+
+Wed 18 Jul
+Read PEP8 - stylr guide for python
+Read article, watched YT video on Requests package
+
