@@ -105,10 +105,19 @@ Sun 16 Jul
 Finished reading Bugcrowd's Inside the mind of a hacker 2023. Important insights for companies to better understand researchers - motivations, backgrounds etc
 Watch YT video Bugcrowd interview with Casey Ellis
 
-Tues 17 Jul
+Tues 18 Jul
 Time to get the hang of python scriptin. Downloaded PyCharm
 
-Wed 18 Jul
-Read PEP8 - stylr guide for python
+Wed 19 Jul
+Read PEP8 - style guide for python
 Read article, watched YT video on Requests package
 
+Thurs 20 Jul
+What is a good resource to learn python. There are so many out there. I just want to learn the basics and start on a small project. Going with PY4E it was recommended by my lecturer a while back.
+Goal - next couple of days learn basic syntax
+
+Fri 21 Jul
+Going to stick with PY4E
+Learn basic syntax do some practical exerices/mini project
+Moving learnings to python repository
+Goal: by Tues night to have spun up a AWS instance and put some mini projects on a landing page.
