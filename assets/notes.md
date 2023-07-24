@@ -119,4 +119,8 @@ Goal - next couple of days learn basic syntax
 Fri 21 Jul
 Learn basic syntax do some practical exerices/mini project
 Moving learnings to python repository
-Goal: by Tues night to have spun up a AWS instance and put some mini projects on a landing page.
+Goal: by Tues night to have spun up a AWS instance and put some mini projects on a landing page
+
+Mon 24 Jul
+Looking fwd to Hack with Katie: Live Session
+All about learning python atm
