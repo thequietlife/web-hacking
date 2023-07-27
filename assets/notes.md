@@ -124,3 +124,8 @@ Goal: by Tues night to have spun up a AWS instance and put some mini projects on
 Mon 24 Jul
 Looking fwd to Hack with Katie: Live Session
 All about learning python atm
+
+Thurs 27 Jul
+Back to PentesterLab - Unix/Linux
+
+
