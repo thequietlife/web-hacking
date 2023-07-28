@@ -130,3 +130,4 @@ Back to PentesterLab - Unix/Linux. Got stuck on one but I think I did too many a
 
 Fri 28 Jul
 PentesterLab - Unix/Linux. The one I was stuck on was me being tired. Got it straight away
+Took ages to get Unix 15 done. I have used Vim before but not for ages. Had to find how to insert and save. Also took a while to install John-the-ripper. Still not sure if I have the jumbo version. Got there in the end which is really satisfying 😅 
