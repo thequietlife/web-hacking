@@ -126,6 +126,7 @@ Looking fwd to Hack with Katie: Live Session
 All about learning python atm
 
 Thurs 27 Jul
-Back to PentesterLab - Unix/Linux
+Back to PentesterLab - Unix/Linux. Got stuck on one but I think I did too many and was zonked
 
-
+Fri 28 Jul
+PentesterLab - Unix/Linux. The one I was stuck on was me being tired. Got it straight away
