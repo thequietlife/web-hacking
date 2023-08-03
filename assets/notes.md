@@ -122,7 +122,6 @@ Moving learnings to python repository
 Goal: by Tues night to have spun up a AWS instance and put some mini projects on a landing page
 
 Mon 24 Jul
-Looking fwd to Hack with Katie: Live Session
 All about learning python atm
 
 Thurs 27 Jul
@@ -134,3 +133,6 @@ Took ages to get Unix 15 done. I have used Vim before but not for ages. Had to f
 
 Mon 31 Jul
 Reread Codingo's blog post on starting bug bounties. Will make a start on the Bugcrowd platform and go through the Unix examples from PentesterLab. I want to finish the Unix badge and then move on to the Essentials Badge
+
+Thurs 3 Aug
+Finally got Unix 20. Had to try another way which worked 😅 
