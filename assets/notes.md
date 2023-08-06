@@ -142,3 +142,6 @@ Stuck on Unix 20
 
 Thurs 3 Aug
 Finally got Unix 20. Tried another way which worked 😅 
+
+Sun 6 Aug
+Pentesterlab. unix 🐈‍⬛
