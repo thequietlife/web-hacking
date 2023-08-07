@@ -145,3 +145,6 @@ Finally got Unix 20. Tried another way which worked 😅
 
 Sun 6 Aug
 Pentesterlab. unix 🐈‍⬛
+
+Mon 7 Aug
+Finished the Pentesterlab Unix badge. Next Essentials Badge 
