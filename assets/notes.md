@@ -147,7 +147,7 @@ Sun 6 Aug
 Pentesterlab. unix 🐈‍⬛
 
 Mon 7 Aug
-Finished the Pentesterlab Unix badge. Next Essentials Badge 
+Finished the Pentesterlab Unix badge. Next Essentials Badge. Spending a lot of time in the car. Started listening to critical thinking - a bug bounty podcast again (episode 1)
 
 Tues 8 Aug
-Essentials Badge. Need to set up a private repo with my Unix notes
+Essentials Badge. Need to set up a private repo with my Unix notes. critical thinking - a bug bounty podcast - episode 2 hardware hacking
