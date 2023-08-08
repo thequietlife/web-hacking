@@ -148,3 +148,6 @@ Pentesterlab. unix 🐈‍⬛
 
 Mon 7 Aug
 Finished the Pentesterlab Unix badge. Next Essentials Badge 
+
+Tues 8 Aug
+Essentials Badge. Need to set up a private repo with my Unix notes
