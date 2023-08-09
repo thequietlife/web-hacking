@@ -134,6 +134,9 @@ Took ages to get Unix 15 done. I have used Vim before but not for ages. Had to f
 Mon 31 Jul
 Reread Codingo's blog post on starting bug bounties. Will make a start on the Bugcrowd platform and go through the Unix examples from PentesterLab. I want to finish the Unix badge and then move on to the Essentials Badge
 
+**August 2023**
+Three months in!
+
 Tues 1 Aug
 Got John-the-ripper jumbo working
 
