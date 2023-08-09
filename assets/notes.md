@@ -150,4 +150,9 @@ Mon 7 Aug
 Finished the Pentesterlab Unix badge. Next Essentials Badge. Spending a lot of time in the car. Started listening to critical thinking - a bug bounty podcast again (episode 1)
 
 Tues 8 Aug
-Essentials Badge. Need to set up a private repo with my Unix notes. critical thinking - a bug bounty podcast - episode 2 hardware hacking
+Essentials Badge - Cross-Site Scripting. critical thinking - a bug bounty podcast - episode 2 hardware hacking
+
+Wed 9 Aug
+Essentials Badge - Cross-Site Scripting. critical thinking - a bug bounty podcast - episode 3 h1 live hacking. Imposter syndrome doesn't go away. The amount of junk triagers get submitted. There is a need for researchers to have a good amount of foundational knowledge so prevent this
+
+
