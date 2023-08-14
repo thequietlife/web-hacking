@@ -158,4 +158,8 @@ Essentials Badge - Cross-Site Scripting. critical thinking - a bug bounty podcas
 Wed 9 Aug
 Essentials Badge - Cross-Site Scripting. critical thinking - a bug bounty podcast - episode 3 h1 live hacking. Imposter syndrome doesn't go away. The amount of junk triagers get submitted. There is a need for researchers to have a good amount of foundational knowledge so prevent this
 
+Sat 12 Aug
+Watched YT Hacksplaining SQL Injection and a bit of Rana Khalil SQL too. Huge day feeling smashed
 
+Mon 14 Aug
+Back to Pentesterlab. pew pew
