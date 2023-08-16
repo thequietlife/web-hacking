@@ -163,3 +163,6 @@ Watched YT Hacksplaining SQL Injection and a bit of Rana Khalil SQL too. Huge da
 
 Mon 14 Aug
 Back to Pentesterlab. pew pew
+
+Wed 16 Aug
+Pentesterlab - working on Authentication 
