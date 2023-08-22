@@ -166,3 +166,8 @@ Back to Pentesterlab. pew pew
 
 Wed 16 Aug
 Pentesterlab - working on Authentication 
+
+BSides Perth was over the weekend. So good!
+
+Tues 22 Aug
+Back to Pentesterlab. Working on Authentication 
