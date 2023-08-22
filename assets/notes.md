@@ -167,7 +167,10 @@ Back to Pentesterlab. pew pew
 Wed 16 Aug
 Pentesterlab - working on Authentication 
 
-BSides Perth was over the weekend. So good!
+
+Huge few days. SecTalks Perth, QuokkaCon, and BSides Perth
+
+I also have TCM's Practical Ethical Hacking. Will look at that as well
 
 Tues 22 Aug
-Back to Pentesterlab. Working on Authentication 
+Back to Pentesterlab. Working on Authentication (MD5 hash)
