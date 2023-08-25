@@ -175,7 +175,13 @@ I also have TCM's Practical Ethical Hacking. Will look at that as well
 Tues 22 Aug
 Back to Pentesterlab. Working on Authentication (MD5 hash)
 
-Wed 23 AUG
+Wed 23 Aug
 TCM Security - Practical Ethical Hacking 5% complete (need to always study, note taking)
 Pentesterlab. Authentication
+
+Thurs 24 Aug
+Read through Google Hacking for Penetration Testers
+
+Fri 25 Aug
+PentesterLab - Authorization
 
