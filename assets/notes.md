@@ -184,4 +184,11 @@ Read through Google Hacking for Penetration Testers
 
 Fri 25 Aug
 PentesterLab - Authorization
+Started reading 'The Art of Deception' by Kevin Mitnick (social engineering)
 
+Sat 26 Aug
+Got stuck trying to use Burp for a PentesterLab exercise
+
+Mon 28 Aug
+This morning I realised how I could approach the Burp exercise
+Head down and worked it out in 20 mins. Felt good to get it
