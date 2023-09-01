@@ -200,3 +200,7 @@ PentesterLab
 Thu 31 Aug
 Finally got the PentesterLab exercise. 😅
 I tried it a few times but had to leave it for a bit. I think I wasn't getting the POST request I needed in Burp ( /update URL)
+
+Friyay 1 Sept
+Six months of pushing through! Splendid!
+PentesterLab ftw
