@@ -167,7 +167,6 @@ Back to Pentesterlab. pew pew
 Wed 16 Aug
 Pentesterlab - working on Authentication 
 
-
 Huge few days. SecTalks Perth, QuokkaCon, and BSides Perth
 
 I also have TCM's Practical Ethical Hacking. Will look at that as well
@@ -204,3 +203,6 @@ I tried it a few times but had to leave it for a bit. I think I wasn't getting t
 Friyay 1 Sept
 Six months of pushing through! Splendid!
 PentesterLab ftw
+
+Mon 4 Sept
+Going to focus just on bug bounty. Pausing CTI
