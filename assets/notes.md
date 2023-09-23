@@ -206,3 +206,7 @@ PentesterLab ftw
 
 Mon 4 Sept
 Going to focus just on bug bounty. Pausing CTI
+
+Sat 23 Sept
+Took a break to work on a fun project
+Back next week
