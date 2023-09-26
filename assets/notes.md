@@ -60,8 +60,7 @@ My goal is to be able to identify web vulnerabilities and get on the bugcrowd le
 | Day 38    | Python syntax        |
 | Day 39    | All about learning Python atm       |
 | Day 40    | Back to PentesterLab - Unix/Linux. Got stuck on one but I think I did too many and was zonked        |
-| Day 41    | PentesterLab - Unix/Linux. The one I was stuck on was me being tired. Got it straight away
-Took ages to get Unix 15 done. I have used Vim before but not for ages. Had to find how to insert and save. Also took a while to install, password cracking tool John-the-ripper. Still not sure if I have the jumbo version. Got there in the end which is really satisfying 😅       |
+| Day 41    | PentesterLab - Unix/Linux. The one I was stuck on was me being tired. Got it straight away. Took ages to get Unix 15 done. I have used Vim before but not for ages. Had to find how to insert and save. Also took a while to install, password cracking tool John-the-ripper. Still not sure if I have the jumbo version. Got there in the end which is really satisfying 😅       |
 | Day 42    | Reread Codingo's blog post on starting bug bounties. I want to finish the Unix badge and then move on to the Essentials Badge       |
 
 
