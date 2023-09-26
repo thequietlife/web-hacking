@@ -2,15 +2,42 @@ Starting is hard, for me sticking with something is even harder. There is so muc
 
 My goal is to be able to identify web vulnerabilities and get on the bugcrowd leaderboard
 
-
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
-
 **May 2023**
 
-Day 1 homework - learning about computational thinking (decomposition, pattern recognition, loops, pattern generalization, algorithmn design)
+|  Bug Bounty 101    | Homework |
+| ----------- | ----------- |
+| Day 1      | learning about computational thinking (decomposition, pattern recognition, loops, pattern generalization, algorithmn design)     |
+| Paragraph   | Text        |
+| Paragraph   | Text        |
+| Paragraph   | Text        |
+| Paragraph   | Text        |
+| Paragraph   | Text        |
+| Paragraph   | Text        |
+| Paragraph   | Text        |
+| Paragraph   | Text        |
+| Paragraph   | Text        |
+| Paragraph   | Text        |
+| Paragraph   | Text        |
+| Paragraph   | Text        |
+| Paragraph   | Text        |
+| Paragraph   | Text        |
+| Paragraph   | Text        |
+| Paragraph   | Text        |
+| Paragraph   | Text        |
+| Paragraph   | Text        |
+| Paragraph   | Text        |
+| Paragraph   | Text        |
+| Paragraph   | Text        |
+| Paragraph   | Text        |
+| Paragraph   | Text        |
+| Paragraph   | Text        |
+| Paragraph   | Text        |
+| Paragraph   | Text        |
+| Paragraph   | Text        |
+| Paragraph   | Text        |
+| Paragraph   | Text        |
+
+
 
 Day 2 homework - what is the internet? bit sending, internet working protocol, IP addresses (IPv4, IPv6), DNS (look up domain names and get the associated IP)
 
