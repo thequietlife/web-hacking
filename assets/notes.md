@@ -8,77 +8,65 @@ My goal is to be able to identify web vulnerabilities and get on the bugcrowd le
 
 |     | ## Daily Log |
 | ----------- | ----------- |
-| Day 1      | learning about computational thinking (decomposition, pattern recognition, loops, pattern generalization, algorithmn design)     |
-| Day 2    | what is the internet? bit sending, internet working protocol, IP addresses (IPv4, IPv6), DNS (look up domain names and get the associated IP)       |
-| Day 3    | packets, routing & reliability (packets of information, too many to send at once), TCP does an inventory that all packets rec'd), TCP. source: code.org https://youtu.be/mTGSiB4kB18
-       |
-| Day 1    | Text        |
-| Day 1    | Text        |
-| Day 1    | Text        |
-| Day 1    | Text        |
-| Day 1    | Text        |
-| Day 1    | Text        |
-| Day 1    | Text        |
-| Day 1    | Text        |
-| Day 1    | Text        |
-| Day 1    | Text        |
-| Day 1    | Text        |
-| Day 1    | Text        |
-| Day 1    | Text        |
-| Day 1    | Text        |
-| Day 1    | Text        |
-| Day 1    | Text        |
-| Day 1    | Text        |
-| Day 1    | Text        |
-| Day 1    | Text        |
-| Day 1    | Text        |
-| Day 1    | Text        |
-| Day 1    | Text        |
-| Day 1    | Text        |
-| Day 1    | Text        |
-| Day 1    | Text        |
-| Day 1    | Text        |
-| Day 1    | Text        |
-| Day 1    | Text        |
-| Day 1    | Text        |
-| Day 1    | Text        |
-| Day 1    | Text        |
-| Day 1    | Text        |
-| Day 1    | Text        |
-| Day 1    | Text        |
-| Day 1    | Text        |
-| Day 1    | Text        |
-| Day 1    | Text        |
-| Day 1    | Text        |
-| Day 1    | Text        |
-| Day 1    | Text        |
-| Day 1    | Text        |
-| Day 1    | Text        |
+| Day 1      | Learning about computational thinking (decomposition, pattern recognition, loops, pattern generalization, algorithmn design)     |
+| Day 2    | What is the internet? bit sending, internet working protocol, IP addresses (IPv4, IPv6), DNS (look up domain names and get the associated IP)       |
+| Day 3    | Packets, routing & reliability (packets of information, too many to send at once), TCP does an inventory that all packets rec'd), TCP. source: code.org https://youtu.be/mTGSiB4kB18|
+| Day 4    | How does the internet work? TCP/IP (3-way handshake), Request, Response, DNS, DNS queries, DNS records, HTTP servers, proxies, HTTP Request/Response status codes, HTTP headers, GET + POST requests, cookies and sessions, code|
+| Day 5    | Learning about DNS settings in practice by changing the domain name for the Pilar website, looking at dnschecker.org, HTTP servers, HTTP request/response. Have realised that the HTML I know from building landing pages is helping understand HTTP Requests. From the little code I know I recognise the structure of the HTML doc|
+| Day 6    | Set up browser extensions to start, Burp (Community edition is fine for learning), use one browser for hacking (Firefox), getting extensions InsiderPhD recommends (password manager, foxyproxy, firefox containers, cookie quick manager)|
+| Day 7    | Set up tools (extensions)       |
+| Day 8    | Get familiar with Burp - scope settings, how to add subdomains, make a change see what happens        |
+| Day 9    | More getting familiar with Burp        |
+| Day 10    | More Burp, The aim of using Burp is to make a change on the Request side and see if it makes a difference on the Response side - insiderphd deletes the cookie and that leads to a 302 error, not necessarily a vulnerability but shows the required approach        |
+| Day 11    | Where are the IDs? UUID = No bug?       |
+| Day 12    | Text        |
+| Day 13    | Text        |
+| Day 14    | Text        |
+| Day 15    | Text        |
+| Day 16    | Text        |
+| Day 17    | Text        |
+| Day 18    | Text        |
+| Day 19    | Text        |
+| Day 20    | Text        |
+| Day 21    | Text        |
+| Day 22    | Text        |
+| Day 23    | Text        |
+| Day 24    | Text        |
+| Day 25    | Text        |
+| Day 26    | Text        |
+| Day 27    | Text        |
+| Day 28    | Text        |
+| Day 29    | Text        |
+| Day 30    | Text        |
+| Day 31    | Text        |
+| Day 32    | Text        |
+| Day 33    | Text        |
+| Day 34    | Text        |
+| Day 35    | Text        |
+| Day 36    | Text        |
+| Day 37    | Text        |
+| Day 38    | Text        |
+| Day 39    | Text        |
+| Day 40    | Text        |
+| Day 41    | Text        |
+| Day 42    | Text        |
+| Day 43    | Text        |
+| Day 44    | Text        |
+| Day 45    | Text        |
 
 
 
 
 
-Day 4 bugcrowd, how does the internet work?
-TCP/IP (3-way handshake), Request, Response, DNS, DNS queries, DNS records, HTTP servers, proxies, HTTP Request/Response
-status codes, HTTP headers, GET + POST requests, cookies and sessions, code
 
-Day 5 learning about DNS settings in practice by changing the domain name for the Pilar website, looking at dnschecker.org, HTTP servers, HTTP request/response. Have realised that the HTML I know from building landing pages is helping understand HTTP Requests. From the little code I know I recognise the structure of the HTML doc, the top with all the charset=UTF-8
 
-Homework install foxyproxy extension. Got Burp already
 
-Day 6 set up tools to start 
-Burp (Community edition is fine for learning)
-Use one browser for hacking (Firefox)
-Getting extensions insiderphd recommends (password manager, foxyproxy, firefox containers, cookie quick manager) 
 
-Day 7 set up tools (extensions)
 
-Day 8, 9, 10 get familiar with Burp - scope settings, how to add subdomains, make a change see what happens
+ 
 
-The aim of using Burp is to make a change on the Request side and see if it makes a difference on the Response side - insiderphd deletes the cookie and that leads to a 302 error, not necessarily a vulnerability but shows the required approach
 
-Day 11 where are the IDs? UUID = No bug?
+Day 11 
 
 Day 12 How do we do this? Accessing something that without being logged on
 
