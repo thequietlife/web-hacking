@@ -93,6 +93,8 @@ My goal is to be able to identify web vulnerabilities and get on the bugcrowd le
 
 ### 🏎️ Still pushing through! Splendid! PentesterLab ftw
 
+|     |  |
+| ----------- | ----------- |
 | Day 62    | Going to focus just on bug bounty. Pausing CTI      |
 | Day 63    | Took a break to work on a fun project, Back next week      |
 | Day 64    | Formatting daily log        |
