@@ -67,7 +67,7 @@ My goal is to be able to identify web vulnerabilities and get on the bugcrowd le
 
 ## August 2023
 
-### Three months in!
+### Making great progress
 
 |     |  |
 | ----------- | ----------- |
@@ -91,7 +91,7 @@ My goal is to be able to identify web vulnerabilities and get on the bugcrowd le
 | Day 60    | Reviewing notes. PentesterLab        |
 | Day 61    | Finally got the PentesterLab exercise. 😅 I tried it a few times but had to leave it for a bit. I think I wasn't getting the POST request I needed in Burp ( /update URL)        |
 | Day 62    | Going to focus just on bug bounty. Pausing CTI      |
-|    | Took a break to work on a coding project, Back next week      |
+|    | Took a break to work on a coding project, Back next week. That was a huge streak     |
 | Day 64    | Formatting daily log        |
 | Day xx    | ...        |
 | Day xx    | ...        |
