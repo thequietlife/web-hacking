@@ -65,8 +65,8 @@ My goal is to be able to identify web vulnerabilities and get on the bugcrowd le
 
 
 ## August 2023
-Three months in!
-|     | Daily Log |
+### Three months in!
+|     |  |
 | ----------- | ----------- |
 | Day 43    | Got John-the-ripper jumbo working      |
 | Day 44    | Stuck on Unix 20      |
@@ -76,90 +76,24 @@ Three months in!
 | Day 48    | Essentials Badge - Cross-Site Scripting. critical thinking - a bug bounty podcast - episode 2 hardware hacking       |
 | Day 49    | Essentials Badge - Cross-Site Scripting. critical thinking - a bug bounty podcast - episode 3 H1 live hacking. Imposter syndrome doesn't go away. The amount of junk triagers get submitted. There is a need for researchers to have a good amount of foundational knowledge so prevent this      |
 | Day 50    | Watched YT Hacksplaining SQL Injection and a bit of Rana Khalil SQL too. Huge day feeling smashed       |
-| Day xx    | Text        |
-| Day xx    | Text        |
-| Day xx    | Text        |
-| Day xx    | Text        |
-| Day xx    | Text        |
-| Day xx    | Text        |
-| Day xx    | Text        |
+| Day 51    | Back to Pentesterlab. pew pew       |
+| Day 52    | Pentesterlab - working on Authentication         |
+| Day 53    | Huge few days. SecTalks Perth, QuokkaCon, and BSides Perth. I also have TCM's Practical Ethical Hacking. Will look at that as well       |
+| Day 54    | Back to Pentesterlab. Working on Authentication (MD5 hash)      |
+| Day 55    | TCM Security - Practical Ethical Hacking (need to always study, note taking). Pentesterlab. Authentication       |
+| Day 56    | Read through Google Hacking for Penetration Testers https://www.amazon.com/Google-Hacking-Penetration-Testers-Johnny/dp/0128029641|
+| Day 57    | PentesterLab - Authorization. Started reading 'The Art of Deception' by Kevin Mitnick (social engineering)        |
+| Day 58    | Got stuck trying to use Burp for a PentesterLab exercise      |
+| Day 59    | This morning I realised how I could approach the Burp exercise. Head down and worked it out in 20 mins. Felt good to get it        |
+| Day 60    | Reviewing notes. PentesterLab        |
+| Day 61    | Finally got the PentesterLab exercise. 😅 I tried it a few times but had to leave it for a bit. I think I wasn't getting the POST request I needed in Burp ( /update URL)        |
+|     | 🏎️ Six months of pushing through! Splendid! PentesterLab ftw       |
+| Day 62    | Going to focus just on bug bounty. Pausing CTI      |
+| Day 63    | Took a break to work on a fun project, Back next week      |
+| Day 64    | Text        |
 
 
-
-
-
-
-
-
-
-
-
-Mon 14 Aug
-Back to Pentesterlab. pew pew
-
-Wed 16 Aug
-Pentesterlab - working on Authentication 
-
-Huge few days. SecTalks Perth, QuokkaCon, and BSides Perth
-
-I also have TCM's Practical Ethical Hacking. Will look at that as well
-
-Tues 22 Aug
-Back to Pentesterlab. Working on Authentication (MD5 hash)
-
-Wed 23 Aug
-TCM Security - Practical Ethical Hacking 5% complete (need to always study, note taking)
-Pentesterlab. Authentication
-
-Thurs 24 Aug
-Read through Google Hacking for Penetration Testers
-
-Fri 25 Aug
-PentesterLab - Authorization
-Started reading 'The Art of Deception' by Kevin Mitnick (social engineering)
-
-Sat 26 Aug
-Got stuck trying to use Burp for a PentesterLab exercise
-
-Mon 28 Aug
-This morning I realised how I could approach the Burp exercise
-Head down and worked it out in 20 mins. Felt good to get it
-
-Tues 29 Aug
-Reviewing notes
-PentesterLab
-
-Thu 31 Aug
-Finally got the PentesterLab exercise. 😅
-I tried it a few times but had to leave it for a bit. I think I wasn't getting the POST request I needed in Burp ( /update URL)
-
-Friyay 1 Sept
-Six months of pushing through! Splendid!
-PentesterLab ftw
-
-Mon 4 Sept
-Going to focus just on bug bounty. Pausing CTI
-
-Sat 23 Sept
-Took a break to work on a fun project
-Back next week
 
 
 | Day xx    | Text        |
 | Day xx    | Text        |
-| Day xx    | Text        |
-| Day xx    | Text        |
-| Day xx    | Text        |
-| Day xx    | Text        |
-| Day xx    | Text        |
-| Day xx    | Text        |
-| Day xx    | Text        |
-| Day xx    | Text        |
-| Day xx    | Text        |
-| Day xx    | Text        |
-| Day xx    | Text        |
-| Day xx    | Text        |
-| Day xx    | Text        |
-| Day xx    | Text        |
-
-
