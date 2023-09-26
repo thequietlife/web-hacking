@@ -1,4 +1,4 @@
-🐱‍💻 Jotting down my journey learning bug bounty hunting 
+🐱‍💻 Jotting down my journey 
 
-> assets > notes
+
 
