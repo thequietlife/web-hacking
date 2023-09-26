@@ -91,7 +91,7 @@ My goal is to be able to identify web vulnerabilities and get on the bugcrowd le
 | Day 60    | Reviewing notes. PentesterLab        |
 | Day 61    | Finally got the PentesterLab exercise. 😅 I tried it a few times but had to leave it for a bit. I think I wasn't getting the POST request I needed in Burp ( /update URL)        |
 
-### 🏎️ Still pushing through! Splendid! PentesterLab ftw
+### 🏎️ Still pushing through! 
 
 |     |  |
 | ----------- | ----------- |
