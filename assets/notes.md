@@ -1,49 +1,63 @@
-# Bug Bounty 101
+# Bug Bounty 101 Daily Log
 
-Starting is hard, for me sticking with something is even harder. There is so much information out there about bug bounty hunting. It can be overwhelming. I am following Bugcrowd's Bug Bounty 101 run by InsiderPhD. And committing to putting in time everyday
+Starting is hard, for me sticking with something is even harder. There is so much information out there about bug bounty hunting. It can be overwhelming. I am following Bugcrowd's Bug Bounty 101 run by InsiderPhD. And committing to putting in time everyday.
 
-My goal is to be able to identify web vulnerabilities and get on the bugcrowd leaderboard
+My goal is to be able to identify web vulnerabilities and get on the bugcrowd leaderboard.
 
 **May 2023**
 
-|  Bug Bounty 101    | Homework |
+|  Bug Bounty 101    | Daily Log |
 | ----------- | ----------- |
 | Day 1      | learning about computational thinking (decomposition, pattern recognition, loops, pattern generalization, algorithmn design)     |
-| Paragraph   | Text        |
-| Paragraph   | Text        |
-| Paragraph   | Text        |
-| Paragraph   | Text        |
-| Paragraph   | Text        |
-| Paragraph   | Text        |
-| Paragraph   | Text        |
-| Paragraph   | Text        |
-| Paragraph   | Text        |
-| Paragraph   | Text        |
-| Paragraph   | Text        |
-| Paragraph   | Text        |
-| Paragraph   | Text        |
-| Paragraph   | Text        |
-| Paragraph   | Text        |
-| Paragraph   | Text        |
-| Paragraph   | Text        |
-| Paragraph   | Text        |
-| Paragraph   | Text        |
-| Paragraph   | Text        |
-| Paragraph   | Text        |
-| Paragraph   | Text        |
-| Paragraph   | Text        |
-| Paragraph   | Text        |
-| Paragraph   | Text        |
-| Paragraph   | Text        |
-| Paragraph   | Text        |
-| Paragraph   | Text        |
-| Paragraph   | Text        |
+| Day 2    | what is the internet? bit sending, internet working protocol, IP addresses (IPv4, IPv6), DNS (look up domain names and get the associated IP)       |
+| Day 3    | packets, routing & reliability (packets of information, too many to send at once), TCP does an inventory that all packets rec'd), TCP. source: code.org https://youtu.be/mTGSiB4kB18
+       |
+| Day 1    | Text        |
+| Day 1    | Text        |
+| Day 1    | Text        |
+| Day 1    | Text        |
+| Day 1    | Text        |
+| Day 1    | Text        |
+| Day 1    | Text        |
+| Day 1    | Text        |
+| Day 1    | Text        |
+| Day 1    | Text        |
+| Day 1    | Text        |
+| Day 1    | Text        |
+| Day 1    | Text        |
+| Day 1    | Text        |
+| Day 1    | Text        |
+| Day 1    | Text        |
+| Day 1    | Text        |
+| Day 1    | Text        |
+| Day 1    | Text        |
+| Day 1    | Text        |
+| Day 1    | Text        |
+| Day 1    | Text        |
+| Day 1    | Text        |
+| Day 1    | Text        |
+| Day 1    | Text        |
+| Day 1    | Text        |
+| Day 1    | Text        |
+| Day 1    | Text        |
+| Day 1    | Text        |
+| Day 1    | Text        |
+| Day 1    | Text        |
+| Day 1    | Text        |
+| Day 1    | Text        |
+| Day 1    | Text        |
+| Day 1    | Text        |
+| Day 1    | Text        |
+| Day 1    | Text        |
+| Day 1    | Text        |
+| Day 1    | Text        |
+| Day 1    | Text        |
+| Day 1    | Text        |
+| Day 1    | Text        |
 
 
 
-Day 2 homework - what is the internet? bit sending, internet working protocol, IP addresses (IPv4, IPv6), DNS (look up domain names and get the associated IP)
 
-Day 3 homework - packets, routing & reliability (packets of information, too many to send at once), TCP does an inventory that all packets rec'd), TCP. source: code.org https://youtu.be/mTGSiB4kB18
 
 Day 4 bugcrowd, how does the internet work?
 TCP/IP (3-way handshake), Request, Response, DNS, DNS queries, DNS records, HTTP servers, proxies, HTTP Request/Response
