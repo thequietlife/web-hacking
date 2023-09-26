@@ -34,8 +34,7 @@ My goal is to be able to identify web vulnerabilities and get on the bugcrowd le
 |     |  |
 | ----------- | ----------- |
 |  Took a few days break from clicking away at the keyboard and did some reading on CTI   | Ready to make a start. pew pew  |
-| Day 20    | 
-Starting with Indeed (InsiderPhD Bugcrowd YT) - read through the instructions on Bugcrowd for the Indeed program. Importance of using BC researcher email address       |
+| Day 20    | Starting with Indeed (InsiderPhD Bugcrowd YT) - read through the instructions on Bugcrowd for the Indeed program. Importance of using BC researcher email address       |
 |  Day 21 | Burp Target scope
 In Burp added '^.+indeed\.com$' in Target scope so all the Indeed domains are included. Filter settings: select 'Show only in-scope items' - this filters out the garbage       |
 | Day 22    | InsiderPhd's method
