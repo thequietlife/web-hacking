@@ -31,6 +31,8 @@ My goal is to be able to identify web vulnerabilities and get on the bugcrowd le
 
 ## June 2023
 
+|     | Daily Log |
+| ----------- | ----------- |
 |     | Took a few days break from clicking away at the keyboard and did some reading on CTI
 Ready to make a start. pew pew  |
 | Day 20    | Refresh of Burp (InsiderPhD Bugcrowd YT)
@@ -46,6 +48,8 @@ set up two accounts in Indeed, or any domain that is going to be tested      |
 
 ## July 2023
 
+|     | Daily Log |
+| ----------- | ----------- |
 | Day 27    | Taking GitLab for a spin        |
 | Day 28    | GitLab - learning about Git, CI/CD, runners, pipelines        |
 | Day 29    | Getting familiar with AWS cloud. PentesterLab - Unix      |
@@ -68,7 +72,8 @@ Took ages to get Unix 15 done. I have used Vim before but not for ages. Had to f
 
 ## August 2023
 Three months in!
-
+|     | Daily Log |
+| ----------- | ----------- |
 | Day 43    | Got John-the-ripper jumbo working      |
 | Day 44    | Stuck on Unix 20      |
 | Day 45    | Finally got Unix 20. Tried another way which worked 😅       |
