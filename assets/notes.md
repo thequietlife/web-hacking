@@ -31,7 +31,7 @@ My goal is to be able to identify web vulnerabilities and get on the bugcrowd le
 
 ## June 2023
 
-|     |  |
+
 | ----------- | ----------- |
 |   | Took a few days break from clicking away at the keyboard and did some reading on CTI  Ready to make a start. pew pew  |
 | Day 20    | Starting with Indeed (InsiderPhD Bugcrowd YT) - read through the instructions on Bugcrowd for the Indeed program. Importance of using BC researcher email address       |
@@ -44,7 +44,7 @@ My goal is to be able to identify web vulnerabilities and get on the bugcrowd le
 
 ## July 2023
 
-|     |  |
+
 | ----------- | ----------- |
 | Day 27    | Taking GitLab for a spin        |
 | Day 28    | GitLab - learning about Git, CI/CD, runners, pipelines        |
@@ -53,8 +53,7 @@ My goal is to be able to identify web vulnerabilities and get on the bugcrowd le
 | Day 31   | PentesterLab - Unix. Submitted a bug to apple - found something that didn't do what it is supposed to do. saw it a couple of weeks ago but yesterday it happened again. might as well submit and get apple to look at it       |
 | Day 32    | Reading a blog post shared by syngularity0 written by Graham Helton - https://grahamhelton.com/blog/jobs/ Really well written and great to see someones journey       |
 | Day 33    | Reading Bugcrowd's Inside the mind of a hacker 2023. Use of AI. Need to companies to increase scope. Refresh of SQL injection       |
-| Day 34    | Finished reading Bugcrowd's Inside the mind of a hacker 2023. Important insights for companies to better understand researchers - motivations, backgrounds etc
-Watch YT video Bugcrowd interview with Casey Ellis        |
+| Day 34    | Finished reading Bugcrowd's Inside the mind of a hacker 2023. Important insights for companies to better understand researchers - motivations, backgrounds etc      |
 | Day 35    | Downloaded PyCharm       |
 | Day 36    | Read PEP8 - style guide for python. Read article, watched YT video on Requests package       |
 | Day 37    | Basic Python syntax      |
