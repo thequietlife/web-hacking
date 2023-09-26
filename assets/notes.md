@@ -14,7 +14,7 @@ My goal is to be able to identify web vulnerabilities and get on the bugcrowd le
 | Day 4    | How does the internet work? TCP/IP (3-way handshake), Request, Response, DNS, DNS queries, DNS records, HTTP servers, proxies, HTTP Request/Response status codes, HTTP headers, GET + POST requests, cookies and sessions, code|
 | Day 5    | Learning about DNS settings in practice by changing the domain name for the Pilar website, looking at dnschecker.org, HTTP servers, HTTP request/response. Have realised that the HTML I know from building landing pages is helping understand HTTP Requests. From the little code I know I recognise the structure of the HTML doc|
 | Day 6    | Set up browser extensions to start, Burp (Community edition is fine for learning), use one browser for hacking (Firefox), getting extensions InsiderPhD recommends (password manager, foxyproxy, firefox containers, cookie quick manager)|
-| Day 7    | Set up tools (extensions)       |
+| Day 7    | Set up browser extensions     |
 | Day 8    | Get familiar with Burp - scope settings, how to add subdomains, make a change see what happens        |
 | Day 9    | More getting familiar with Burp        |
 | Day 10    | More Burp, The aim of using Burp is to make a change on the Request side and see if it makes a difference on the Response side - insiderphd deletes the cookie and that leads to a 302 error, not necessarily a vulnerability but shows the required approach        |
@@ -29,124 +29,71 @@ My goal is to be able to identify web vulnerabilities and get on the bugcrowd le
 |     | Back from a road trip!          |
 | Day 19    |   Been listening to Critical Thinking - Bug Bounty Podcast https://www.criticalthinkingpodcast.io/ |
 
+## June 2023
+
+|     | Took a few days break from clicking away at the keyboard and did some reading on CTI
+Ready to make a start. pew pew  |
+| Day 20    | Refresh of Burp (InsiderPhD Bugcrowd YT)
+Starting with Indeed (InsiderPhD Bugcrowd YT) - read through the instructions on Bugcrowd for the Indeed program. Importance of using BC researcher email address       |
+|  Day 21 | Burp Target scope
+In Burp added '^.+indeed\.com$' in Target scope so all the Indeed domains are included. Filter settings: select 'Show only in-scope items' - this filters out the garbage       |
+| Day 22    | InsiderPhd's method
+set up two accounts in Indeed, or any domain that is going to be tested      |
+| Day 23    | PentesterLab       |
+| Day 24    | PentesterLab. Started wiki       |
+| Day 25    | PentesterLab. Not much progress but got the badges appearing on Bugcrowd        |
+| Day 26    | PentesterLab. Learning UNIX - similar to Terminal mac commands so at least not completely new material. Reinforces that I do know some stuff      |
+
+## July 2023
+
+| Day 27    | Taking GitLab for a spin        |
+| Day 28    | GitLab - learning about Git, CI/CD, runners, pipelines        |
+| Day 29    | Getting familiar with AWS cloud. PentesterLab - Unix      |
+| Day 30    | PentesterLab - Unix       |
+| Day 31   | PentesterLab - Unix. Submitted a bug to apple - found something that didn't do what it is supposed to do. saw it a couple of weeks ago but yesterday it happened again. might as well submit and get apple to look at it       |
+| Day 32    | Reading a blog post shared by syngularity0 written by Graham Helton - https://grahamhelton.com/blog/jobs/ Really well written and great to see someones journey       |
+| Day 33    | Reading Bugcrowd's Inside the mind of a hacker 2023. Use of AI. Need to companies to increase scope. Refresh of SQL injection       |
+| Day 34    | Finished reading Bugcrowd's Inside the mind of a hacker 2023. Important insights for companies to better understand researchers - motivations, backgrounds etc
+Watch YT video Bugcrowd interview with Casey Ellis        |
+| Day 35    | Downloaded PyCharm       |
+| Day 36    | Read PEP8 - style guide for python. Read article, watched YT video on Requests package       |
+| Day 37    | Basic Python syntax      |
+| Day 38    | Python syntax        |
+| Day 39    | All about learning Python atm       |
+| Day 40    | Back to PentesterLab - Unix/Linux. Got stuck on one but I think I did too many and was zonked        |
+| Day 41    | PentesterLab - Unix/Linux. The one I was stuck on was me being tired. Got it straight away
+Took ages to get Unix 15 done. I have used Vim before but not for ages. Had to find how to insert and save. Also took a while to install, password cracking tool John-the-ripper. Still not sure if I have the jumbo version. Got there in the end which is really satisfying 😅       |
+| Day 42    | Reread Codingo's blog post on starting bug bounties. I want to finish the Unix badge and then move on to the Essentials Badge       |
 
 
-
-
-
-
-
-
-
-**June 2023**
-
-Took a few days break from clicking away at the keyboard and did some reading on CTI.
-Ready to make a start. pew pew.
-
-Thu 22 June 2023
-Refresh of Burp (InsiderPhD Bugcrowd YT)
-Starting with Indeed (InsiderPhD Bugcrowd YT) - read through the instructions on Bugcrowd for the Indeed program. Importance of using BC researcher email address.
-
-**Burp Target scope**
-In Burp added '^.+indeed\.com$' in Target scope so all the Indeed domains are included. Filter settings: select 'Show only in-scope items' - this filters out the garbage.
-
-InsiderPhd's method
-set up two accounts in Indeed, or any domain that is going to be tested. 
-
-Fri 23 June 2023
-PentesterLab 
-
-Sun 25 June 2023
-PentesterLab
-Started wiki 
-
-Mon 26 June 2023
-PentesterLab. Not much progress but got the badges appearing on Bugcrowd
-
-Tues 27 June 2023
-PentesterLab. Learning UNIX - similar to Terminal mac commands so at least not completely new material. Reinforces that I do know some stuff
-
-Sat 1 Jul + Sun 2 Jul
-Taking GitLab for a spin - learning about Git, CI/CD, runners, pipelines
-
-Tues 11 Jul
-Getting familiar with AWS cloud, spinning up an instance
-PentesterLab - Unix
-
-Wed 12 Jul
-PentesterLab - Unix
-
-Thurs 13 Jul
-PentesterLab - Unix
-Submitted a bug to apple - found something that didn't do what it is supposed to do. saw it a couple of weeks ago but yesterday it happened again. might as well submit and get apple to look at it
-
-Fri 14 Jul 
-Reading a blog post shared by syngularity0 written by Graham Helton - https://grahamhelton.com/blog/jobs/
-Really well written and great to see someones journey
-
-Sat 15 Jul
-Reading Bugcrowd's Inside the mind of a hacker 2023. Use of AI. Need to companies to increase scope
-Refresh of SQL injection
-
-Sun 16 Jul
-Finished reading Bugcrowd's Inside the mind of a hacker 2023. Important insights for companies to better understand researchers - motivations, backgrounds etc
-Watch YT video Bugcrowd interview with Casey Ellis
-
-Tues 18 Jul
-Time to get the hang of python scriptin. Downloaded PyCharm
-
-Wed 19 Jul
-Read PEP8 - style guide for python
-Read article, watched YT video on Requests package
-
-Thurs 20 Jul
-What is a good resource to learn python. There are so many out there. I just want to learn the basics and start on a small project
-Goal - next couple of days learn basic syntax
-
-Fri 21 Jul
-Learn basic syntax do some practical exerices/mini project
-Moving learnings to python repository
-Goal: by Tues night to have spun up a AWS instance and put some mini projects on a landing page
-
-Mon 24 Jul
-All about learning python atm
-
-Thurs 27 Jul
-Back to PentesterLab - Unix/Linux. Got stuck on one but I think I did too many and was zonked
-
-Fri 28 Jul
-PentesterLab - Unix/Linux. The one I was stuck on was me being tired. Got it straight away
-Took ages to get Unix 15 done. I have used Vim before but not for ages. Had to find how to insert and save. Also took a while to install, password cracking tool John-the-ripper. Still not sure if I have the jumbo version. Got there in the end which is really satisfying 😅 
-
-Mon 31 Jul
-Reread Codingo's blog post on starting bug bounties. Will make a start on the Bugcrowd platform and go through the Unix examples from PentesterLab. I want to finish the Unix badge and then move on to the Essentials Badge
-
-**August 2023**
+## August 2023
 Three months in!
 
-Tues 1 Aug
-Got John-the-ripper jumbo working
+| Day 43    | Got John-the-ripper jumbo working      |
+| Day 44    | Stuck on Unix 20      |
+| Day 45    | Finally got Unix 20. Tried another way which worked 😅       |
+| Day 46    | Pentesterlab. Unix       |
+| Day 47    | 🏅 Finished the Pentesterlab Unix badge. Next Essentials Badge. Spending a lot of time in the car. Started listening to critical thinking - a bug bounty podcast again (episode 1)       |
+| Day 48    | Essentials Badge - Cross-Site Scripting. critical thinking - a bug bounty podcast - episode 2 hardware hacking       |
+| Day 49    | Essentials Badge - Cross-Site Scripting. critical thinking - a bug bounty podcast - episode 3 H1 live hacking. Imposter syndrome doesn't go away. The amount of junk triagers get submitted. There is a need for researchers to have a good amount of foundational knowledge so prevent this      |
+| Day 50    | Watched YT Hacksplaining SQL Injection and a bit of Rana Khalil SQL too. Huge day feeling smashed       |
+| Day xx    | Text        |
+| Day xx    | Text        |
+| Day xx    | Text        |
+| Day xx    | Text        |
+| Day xx    | Text        |
+| Day xx    | Text        |
+| Day xx    | Text        |
 
-Wed 2 Aug
-Stuck on Unix 20
 
-Thurs 3 Aug
-Finally got Unix 20. Tried another way which worked 😅 
 
-Sun 6 Aug
-Pentesterlab. unix 🐈‍⬛
 
-Mon 7 Aug
-Finished the Pentesterlab Unix badge. Next Essentials Badge. Spending a lot of time in the car. Started listening to critical thinking - a bug bounty podcast again (episode 1)
 
-Tues 8 Aug
-Essentials Badge - Cross-Site Scripting. critical thinking - a bug bounty podcast - episode 2 hardware hacking
 
-Wed 9 Aug
-Essentials Badge - Cross-Site Scripting. critical thinking - a bug bounty podcast - episode 3 h1 live hacking. Imposter syndrome doesn't go away. The amount of junk triagers get submitted. There is a need for researchers to have a good amount of foundational knowledge so prevent this
 
-Sat 12 Aug
-Watched YT Hacksplaining SQL Injection and a bit of Rana Khalil SQL too. Huge day feeling smashed
+
+
+
 
 Mon 14 Aug
 Back to Pentesterlab. pew pew
@@ -199,27 +146,21 @@ Took a break to work on a fun project
 Back next week
 
 
-| Day 22    | Text        |
-| Day 23    | Text        |
-| Day 24    | Text        |
-| Day 25    | Text        |
-| Day 26    | Text        |
-| Day 27    | Text        |
-| Day 28    | Text        |
-| Day 29    | Text        |
-| Day 30    | Text        |
-| Day 31    | Text        |
-| Day 32    | Text        |
-| Day 33    | Text        |
-| Day 34    | Text        |
-| Day 35    | Text        |
-| Day 36    | Text        |
-| Day 37    | Text        |
-| Day 38    | Text        |
-| Day 39    | Text        |
-| Day 40    | Text        |
-| Day 41    | Text        |
-| Day 42    | Text        |
-| Day 43    | Text        |
-| Day 44    | Text        |
-| Day 45    | Text        |
+| Day xx    | Text        |
+| Day xx    | Text        |
+| Day xx    | Text        |
+| Day xx    | Text        |
+| Day xx    | Text        |
+| Day xx    | Text        |
+| Day xx    | Text        |
+| Day xx    | Text        |
+| Day xx    | Text        |
+| Day xx    | Text        |
+| Day xx    | Text        |
+| Day xx    | Text        |
+| Day xx    | Text        |
+| Day xx    | Text        |
+| Day xx    | Text        |
+| Day xx    | Text        |
+
+
