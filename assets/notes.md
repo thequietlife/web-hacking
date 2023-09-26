@@ -6,7 +6,7 @@ My goal is to be able to identify web vulnerabilities and get on the bugcrowd le
 
 **May 2023**
 
-|     | ## Daily Log |
+|     | Daily Log |
 | ----------- | ----------- |
 | Day 1      | Learning about computational thinking (decomposition, pattern recognition, loops, pattern generalization, algorithmn design)     |
 | Day 2    | What is the internet? bit sending, internet working protocol, IP addresses (IPv4, IPv6), DNS (look up domain names and get the associated IP)       |
@@ -19,40 +19,15 @@ My goal is to be able to identify web vulnerabilities and get on the bugcrowd le
 | Day 9    | More getting familiar with Burp        |
 | Day 10    | More Burp, The aim of using Burp is to make a change on the Request side and see if it makes a difference on the Response side - insiderphd deletes the cookie and that leads to a 302 error, not necessarily a vulnerability but shows the required approach        |
 | Day 11    | Where are the IDs? UUID = No bug?       |
-| Day 12    | Text        |
-| Day 13    | Text        |
-| Day 14    | Text        |
-| Day 15    | Text        |
-| Day 16    | Text        |
-| Day 17    | Text        |
-| Day 18    | Text        |
-| Day 19    | Text        |
-| Day 20    | Text        |
-| Day 21    | Text        |
-| Day 22    | Text        |
-| Day 23    | Text        |
-| Day 24    | Text        |
-| Day 25    | Text        |
-| Day 26    | Text        |
-| Day 27    | Text        |
-| Day 28    | Text        |
-| Day 29    | Text        |
-| Day 30    | Text        |
-| Day 31    | Text        |
-| Day 32    | Text        |
-| Day 33    | Text        |
-| Day 34    | Text        |
-| Day 35    | Text        |
-| Day 36    | Text        |
-| Day 37    | Text        |
-| Day 38    | Text        |
-| Day 39    | Text        |
-| Day 40    | Text        |
-| Day 41    | Text        |
-| Day 42    | Text        |
-| Day 43    | Text        |
-| Day 44    | Text        |
-| Day 45    | Text        |
+| Day 12    | How do we do this? Accessing something that without being logged on        |
+| Day 13    | Accessing another user's resource, important tip from InsiderPhd - if the action happens to Account B it is NOT AN IDOR. Logged into the Indeed program on Bugcrowd to follow InsiderPhd's demo        |
+| Day 14    | Read blog post by Codingo suggesting where to start - Essential Badge PentestLab and then Authentication / Authorization Badge. Will do that in parallel with getting familiar with Burp and Access Control        |
+| Day 15    | Watched 'How to Crush Bug Bounties in the first 12 Months' Bugcrowd YouTube video; and tried to fix DNS issue on other website; set up a wiki (thank you @codingo for the tip)       |
+| Day 16    | Checked the DNS records for website, not sure what the problem is. Partway through SafeStack SQL Injection tutorial        |
+| Day 17    | Can I use an iphone 4s as a server - no, need newer version of iOS        |
+| Day 18    | learning about SQL injection. New BC video dropped       |
+|     | Back from a road trip!          |
+| Day 19    |   Been listening to Critical Thinking - Bug Bounty Podcast https://www.criticalthinkingpodcast.io/ |
 
 
 
@@ -62,31 +37,6 @@ My goal is to be able to identify web vulnerabilities and get on the bugcrowd le
 
 
 
-
- 
-
-
-Day 11 
-
-Day 12 How do we do this? Accessing something that without being logged on
-
-Day 13 Accessing another user's resource, important tip from InsiderPhd - if the action happens to Account B it is NOT AN IDOR. Logged into the Indeed program on Bugcrowd to follow InsiderPhd's demo
-
-Day 14 Read blog post by Codingo suggesting where to start - Essential Badge PentestLab and then Authentication / Authorization Badge. Will do that in parallel with getting familiar with Burp and Access Control
-
-Day 15 Watched 'How to Crush Bug Bounties in the first 12 Months' Bugcrowd YouTube video; and tried to fix DNS issue on other website; set up a wiki (thank you @codingo for the tip)
-
-Day 16 Checked the DNS records for website, not sure what the problem is. Partway through SafeStack SQL Injection tutorial
-
-Day 17 Can I use an iphone 4s as a server - no, need newer version of iOS. 
-
-Day 18 learning about SQL injection. New BC video dropped.
-
-Back from a road trip! 
-
-Day 19 Been listening to critical thinking - a bug bounty podcast
-
-Day 20 The aim for this week is to start on pentesterlab and look at Atlassian on bugcrowd
 
 **June 2023**
 
@@ -247,3 +197,29 @@ Going to focus just on bug bounty. Pausing CTI
 Sat 23 Sept
 Took a break to work on a fun project
 Back next week
+
+
+| Day 22    | Text        |
+| Day 23    | Text        |
+| Day 24    | Text        |
+| Day 25    | Text        |
+| Day 26    | Text        |
+| Day 27    | Text        |
+| Day 28    | Text        |
+| Day 29    | Text        |
+| Day 30    | Text        |
+| Day 31    | Text        |
+| Day 32    | Text        |
+| Day 33    | Text        |
+| Day 34    | Text        |
+| Day 35    | Text        |
+| Day 36    | Text        |
+| Day 37    | Text        |
+| Day 38    | Text        |
+| Day 39    | Text        |
+| Day 40    | Text        |
+| Day 41    | Text        |
+| Day 42    | Text        |
+| Day 43    | Text        |
+| Day 44    | Text        |
+| Day 45    | Text        |
