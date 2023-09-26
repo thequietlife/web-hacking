@@ -6,7 +6,7 @@ My goal is to be able to identify web vulnerabilities and get on the bugcrowd le
 
 **May 2023**
 
-|  Bug Bounty 101    | Daily Log |
+|     | Daily Log |
 | ----------- | ----------- |
 | Day 1      | learning about computational thinking (decomposition, pattern recognition, loops, pattern generalization, algorithmn design)     |
 | Day 2    | what is the internet? bit sending, internet working protocol, IP addresses (IPv4, IPv6), DNS (look up domain names and get the associated IP)       |
