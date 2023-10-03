@@ -93,10 +93,11 @@ My goal is to be able to identify web vulnerabilities and get on the bugcrowd le
 | Day 62    | Going to focus just on bug bounty. Pausing CTI      |
 
 
-###  Yowzer it's October 2023
+### Yowzers it's October 2023
 
 |     |  |
 | ----------- | ----------- |
-| Day 63    | Formatting daily log        |
-| Day 64    |  Took a break to work on a fun project        |
-| Day xx    | Email routing ftw      |
+| Day 63    | Formatting daily log      |
+| Day 64    | Took a break to work on a fun project  |
+| Day 65    | Email routing ftw      |
+
