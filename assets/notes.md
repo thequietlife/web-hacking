@@ -100,4 +100,5 @@ My goal is to be able to identify web vulnerabilities and get on the bugcrowd le
 | Day 63    | Formatting daily log      |
 | Day 64    | Took a break to work on a fun project  |
 | Day 65    | Email routing ftw      |
-
+| Day 66    | Back to PentesterLab      |
+| Day --    | --     |
