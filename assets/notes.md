@@ -95,10 +95,12 @@ My goal is to be able to identify web vulnerabilities and get on the bugcrowd le
 
 ### Yowzers it's October 2023
 
+### Making more great progress
+
 |     |  |
 | ----------- | ----------- |
-| Day 63    | Formatting daily log      |
-| Day 64    | Took a break to work on a fun project  |
-| Day 65    | Email routing ftw      |
-| Day 66    | Back to PentesterLab      |
-| Day --    | --     |
+| Day 63    | Formatting daily log - put it into a markdown table. So much better to look at      |
+| Day 64    | Took a break to work on a fun project <https://github.com/hacker-playlists> |
+| Day 65    | Email routing ftw. Using my domain and routing email to my other address. Saves money and don't have to use another service    |
+| Day 66    | Review notes. Find vulns on Bugcrowd. Back to PentesterLab      |
+| Day 67    | --     |
