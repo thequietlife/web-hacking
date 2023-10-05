@@ -1,4 +1,4 @@
-🐱‍💻 Jotting down my journey 
+Jotting down my progress
 
 
 
