@@ -103,4 +103,4 @@ My goal is to be able to identify web vulnerabilities and get on the bugcrowd le
 | Day 64    | Took a break to work on a fun project <https://github.com/hacker-playlists> |
 | Day 65    | Fun project - email routing ftw. Using my domain and routing email to my other address. Saves money and don't have to use another service    |
 | Day 66    | Oof it's been a month away. Hunting has to be my main priority. Review notes     |
-| Day 67    | Need to get in a habit of PentesterLab  and then look for vuln in the wild - 🔬 start on broken access control   |
+| Day 67    | Need to get in a habit of PentesterLab  and then look for vuln in the wild - 🔬 start on broken access control. Authorization 06 ✅    |
