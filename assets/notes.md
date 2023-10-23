@@ -105,5 +105,5 @@ My goal is to be able to identify web vulnerabilities and get on the bugcrowd le
 | Day 66    | Oof it's been a month away. Hunting has to be my main priority. Review notes     |
 | Day 67    | Need to get in a habit of PentesterLab  and then look for vuln in the wild - 🔬 start on broken access control. Authorization 06 ✅    |
 | Day 68 | Submitted a functional bug I found on the Bugcrowd website |
-| Day 69 | Submitted a bug I found. The link on the email went to a website that gave me a privacy error message and also apparently to a old version of the companies website |
-| Day 70 | ... |
+| Day 69 | Submitted a bug I found. The link on the email went to a website that gave me a privacy error message and also apparently to a old version of the companies website. They responded within an hour and were really appreciative. Felt good to help and get positive feedback |
+| Day 70 | Back to it |
