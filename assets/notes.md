@@ -108,4 +108,4 @@ My goal is to be able to identify web vulnerabilities and get on the bugcrowd le
 | Day 69 | Submitted a bug I found. The link on the email went to a website that gave me a privacy error message and also apparently to a old version of the companies website. They responded within an hour and were really appreciative. Felt good to help and get positive feedback |
 | Day 70 | Reviewing Code Injection 01. Code Injection 02 |
 | Day 71 | Code Injection 02 - stuck on last part  |
-| Day 72 | -- |
+| Day 72 | Learning about encoding symbols (;) to solve Code Injection 02 |
