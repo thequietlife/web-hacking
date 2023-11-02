@@ -109,7 +109,7 @@ My goal is to be able to identify web vulnerabilities and get on the bugcrowd le
 | Day 70 | Reviewing Code Injection 01. Code Injection 02 |
 | Day 71 | Code Injection 02 - stuck on last part  |
 | Day 72 | Learning about encoding symbols (;) to solve Code Injection 02. Bug hunting on Bugcrowd. Submitted a report but deemed n/a. Quick response which was great. And helpful |
-|  Day 73 | Got really stumped with Code Injection 02. Need to make sure I add quotes around the start and end of strings (encoded quotes) |
-| Day 74    |  It took two mins to get the Code Inject 02 to work. Fresh set of eyes I guess |
+|  Day 73 | Got really stumped with Code Injection 03. Need to make sure I add quotes around the start and end of strings (encoded quotes) |
+| Day 74    |  It took two mins to get the Code Inject 03 to work. Fresh set of eyes I guess |
 | Day 75 | -- |
 
