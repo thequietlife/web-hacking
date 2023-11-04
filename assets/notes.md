@@ -110,6 +110,7 @@ My goal is to be able to identify web vulnerabilities and get on the bugcrowd le
 | Day 71 | Code Injection 02 - stuck on last part  |
 | Day 72 | Learning about encoding symbols (;) to solve Code Injection 02. Bug hunting on Bugcrowd. Submitted a report but deemed n/a. Quick response which was great. And helpful |
 |  Day 73 | Got really stumped with Code Injection 03. Need to make sure I add quotes around the start and end of strings (encoded quotes) |
-| Day 74    |  It took two mins to get the Code Inject 03 to work. Fresh set of eyes I guess |
-| Day 75 | -- |
+| Day 74    |  It took two mins to get the Code Injection 03 to work. Fresh set of eyes I guess 🤦🏼‍♂️ oof |
+| Day 75 | Watched an awesome talk on how to start and do cybersecurity research <https://www.youtube.com/live/uq4zaW9SyHk?si=SBbc3u2SkQ-BwO6H> |
+| Day 76 | Tip on SecTalks slack to start a homelab even with just a Raspberry Pi. It's been on the list for a while. 😅 Will make a start. But first back to PentesterLab Code Injection 04. pew pew |
 
