@@ -114,5 +114,5 @@ My goal is to be able to identify web vulnerabilities and get on the bugcrowd le
 | Day 75 | Watched an awesome talk on how to start and do cybersecurity research <https://www.youtube.com/live/uq4zaW9SyHk?si=SBbc3u2SkQ-BwO6H> |
 | Day 76 | Tip on SecTalks slack to start a homelab even with just a Raspberry Pi. It's been on the list for a while. 😅 Will make a start. But first back to PentesterLab Code Injection 04. pew pew |
 | Day 77 | Reviewed Code Execution 01 - 03, starting on 04. Submitted proposal to ComfyCon |
-| Day 78 | Pausing web vulns. Setting up a home lab |
+| Day 78 | Code Executioon 04 |
 
