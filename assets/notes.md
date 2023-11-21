@@ -116,7 +116,8 @@ My goal is to be able to identify web vulnerabilities and get on the bugcrowd le
 | Day 77 | Reviewed Code Execution 01 - 03, starting on 04. Submitted proposal to ComfyCon |
 
 This week's goal is to finish the Essentials badge 
-
+|     |  |
+| ----------- | ----------- |
 | Day 78 | Ate the frog. Completed Code Execution 04 in 30 mins 🐸. Got back from walking the dog and went straight to PentesterLab. pew pew |
-| Day 79 | Code Execution 05 |
+| Day 79 | Code Execution 05 ✅ |
 
