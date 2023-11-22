@@ -119,5 +119,5 @@ This week's goal is to finish the Essentials badge
 |     |  |
 | ----------- | ----------- |
 | Day 78 | Ate the frog. Completed Code Execution 04 in 30 mins 🐸. Got back from walking the dog and went straight to PentesterLab. pew pew |
-| Day 79 | Code Execution 05 ✅ |
-
+| Day 79 | Code Execution 05 ✅. Bughunting on bugcrowd. Seeing something unexpected, need to check domain is in scope |
+| Day 80 | Code Execution 06 ✅ |
