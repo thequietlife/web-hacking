@@ -121,3 +121,4 @@ This week's goal is to finish the Essentials badge
 | Day 78 | Ate the frog. Completed Code Execution 04 in 30 mins 🐸. Got back from walking the dog and went straight to PentesterLab. pew pew |
 | Day 79 | Code Execution 05 ✅. Bughunting on bugcrowd. Seeing something unexpected, need to look again |
 | Day 80 | Code Execution 06 ✅ |
+| Day 81 | Code Execution 07 ✅ Some days I can focus better. Managed to finish the exercise in about 30-45 mins focussed work. The key for me is to clear my head (write a list, don't open email,  slack or anything. Set the timer (sand clock) and eat the frog 🐸 |
