@@ -122,3 +122,4 @@ This week's goal is to finish the Essentials badge
 | Day 79 | Code Execution 05 ✅. Bughunting on bugcrowd. Seeing something unexpected, need to look again |
 | Day 80 | Code Execution 06 ✅ |
 | Day 81 | Code Execution 07 ✅ Some days I can focus better. Managed to finish the exercise in about 30-45 mins focussed work. The key for me is to clear my head (write a list, don't open email,  slack or anything. Set the timer (sand clock) and eat the frog 🐸 |
+| Day 82 | Back from a huge break - 2 months. YT video Nahamsec, which also reminded me of things other bug bounty hunters have said about persistance |
