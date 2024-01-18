@@ -125,6 +125,7 @@ This week's goal is to finish the Essentials badge
 | Day 82 | Back from a huge break - 2 months. YT video Nahamsec, which also reminded me of things other bug bounty hunters have said about persistance |
 
 ### January 2024
+
 |     |  |
 | ----------- | ----------- |
-| Day 83 | Code Execution 08 WIP | Slow and steady wins the race...🐢 |
+| Day 83 | Code Execution 08 WIP. Slow and steady wins the race...🐢 |
