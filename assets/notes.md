@@ -130,3 +130,4 @@ This week's goal is to finish the Essentials badge
 | ----------- | ----------- |
 | Day 83 | Code Execution 08 WIP. Slow and steady wins the race...🐢 |
 | Day 84 | Code Execution 08. Learning about base64 encoding |
+| Day 85 | Code Execution 08 ✅. Had to keep at this one to get it. Needed to encode the score but to do that you need to go through the whole b64 process. Great to have gotten it though |
