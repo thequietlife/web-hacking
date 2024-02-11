@@ -134,4 +134,5 @@ This week's goal is to finish the Essentials badge
 | Day 86 | Quick look at access control notes and insiderphd's video |
 | Day 87 | Putting PentesterLab learnings into practice on Bugcrowd |
 | Day 88 | Code Execution 09 WIP. Dev console|
-| Day 89 | Code Execution 09 WIP |
+| Day 89 | Code Execution 09 ✅/ Feels good to have done this one so quickly. Trying to maintain a streak|
+| Day 90 | Command Execution 01 ✅ encoding characters|
