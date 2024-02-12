@@ -1,5 +1,5 @@
 
-# bug bounty notes  
+# 🐞 bug bounty notes  
 
 Starting is hard, for me sticking with something is even harder. There is so much information out there about bug bounty hunting. It can be overwhelming. I am following Bugcrowd's Bug Bounty 101 run by InsiderPhD. And committing to putting in time everyday.
 
@@ -113,7 +113,7 @@ My goal is to be able to identify web vulnerabilities and get on the bugcrowd le
 | Day 74    |  It took two mins to get the Code Injection 03 to work. Fresh set of eyes I guess 🤦🏼‍♂️ oof |
 | Day 75 | Watched an awesome talk on how to start and do cybersecurity research <https://www.youtube.com/live/uq4zaW9SyHk?si=SBbc3u2SkQ-BwO6H> |
 | Day 76 | Tip on SecTalks slack to start a homelab even with just a Raspberry Pi. It's been on the list for a while. 😅 Will make a start. But first back to PentesterLab Code Injection 04. pew pew |
-| Day 77 | Reviewed Code Execution 01 - 03, starting on 04. Submitted proposal to ComfyCon |
+| Day 77 | Reviewed Code Execution 01 - 03, starting on 04. Submitted proposal to ComfyCon 🥔 🕹️ |
 
 This week's goal is to finish the Essentials badge 
 |     |  |
