@@ -11,7 +11,7 @@ My goal is to be able to identify web vulnerabilities and get on the bugcrowd le
 | ----------- | ----------- |
 | Day 1      | Learning about computational thinking (decomposition, pattern recognition, loops, pattern generalization, algorithmn design)     |
 | Day 2    | What is the internet? bit sending, internet working protocol, IP addresses (IPv4, IPv6), DNS (look up domain names and get the associated IP)       |
-| Day 3    | Packets, routing & reliability (packets of information, too many to send at once), TCP does an inventory that all packets rec'd), TCP. source: code.org https://youtu.be/mTGSiB4kB18|
+| Day 3    | Packets, routing & reliability (packets of information, too many to send at once), TCP does an inventory that all packets rec'd), TCP. source: [code.org](https://youtu.be/mTGSiB4kB18)|
 | Day 4    | How does the internet work? TCP/IP (3-way handshake), Request, Response, DNS, DNS queries, DNS records, HTTP servers, proxies, HTTP Request/Response status codes, HTTP headers, GET + POST requests, cookies and sessions, code|
 | Day 5    | Learning about DNS settings in practice by changing the domain name for the Pilar website, looking at dnschecker.org, HTTP servers, HTTP request/response. Have realised that the HTML I know from building landing pages is helping understand HTTP Requests. From the little code I know I recognise the structure of the HTML doc|
 | Day 6    | Set up browser extensions to start, Burp (Community edition is fine for learning), use one browser for hacking (Firefox), getting extensions InsiderPhD recommends (password manager, foxyproxy, firefox containers, cookie quick manager)|
@@ -28,7 +28,7 @@ My goal is to be able to identify web vulnerabilities and get on the bugcrowd le
 | Day 17    | Can I use an iphone 4s as a server - no, need newer version of iOS        |
 | Day 18    | learning about SQL injection. New BC video dropped       |
 |     | Back from a road trip!          |
-| Day 19    |   Been listening to Critical Thinking - Bug Bounty Podcast https://www.criticalthinkingpodcast.io/ |
+| Day 19    |   Been listening to [Critical Thinking - Bug Bounty Podcast](https://www.criticalthinkingpodcast.io) |
 
 ## June 2023
 
@@ -52,7 +52,7 @@ My goal is to be able to identify web vulnerabilities and get on the bugcrowd le
 | Day 29    | Getting familiar with AWS cloud. PentesterLab - Unix      |
 | Day 30    | PentesterLab - Unix       |
 | Day 31   | PentesterLab - Unix. Submitted a bug to apple - found something that didn't do what it is supposed to do. saw it a couple of weeks ago but yesterday it happened again. might as well submit and get apple to look at it       |
-| Day 32    | Reading a blog post shared by syngularity0 written by Graham Helton - https://grahamhelton.com/blog/jobs/ Really well written and great to see someones journey       |
+| Day 32    | Reading a blog post shared by syngularity0 written by [Graham Helton](https://grahamhelton.com/blog/jobs) Really well written and great to see someones journey       |
 | Day 33    | Reading Bugcrowd's Inside the mind of a hacker 2023. Use of AI. Need to companies to increase scope. Refresh of SQL injection       |
 | Day 34    | Finished reading Bugcrowd's Inside the mind of a hacker 2023. Important insights for companies to better understand researchers - motivations, backgrounds etc      |
 | Day 35    | Downloaded PyCharm       |
@@ -84,7 +84,7 @@ My goal is to be able to identify web vulnerabilities and get on the bugcrowd le
 | Day 53    | Huge few days. SecTalks Perth, QuokkaCon, and BSides Perth. I also have TCM's Practical Ethical Hacking. Will look at that as well       |
 | Day 54    | Back to Pentesterlab. Working on Authentication (MD5 hash)      |
 | Day 55    | TCM Security - Practical Ethical Hacking (need to always study, note taking). Pentesterlab. Authentication       |
-| Day 56    | Read through Google Hacking for Penetration Testers https://www.amazon.com/Google-Hacking-Penetration-Testers-Johnny/dp/0128029641|
+| Day 56    | Read through [Google Hacking for Penetration Testers](https://www.amazon.com/Google-Hacking-Penetration-Testers-Johnny/dp/0128029641)|
 | Day 57    | PentesterLab - Authorization. Started reading 'The Art of Deception' by Kevin Mitnick (social engineering)        |
 | Day 58    | Got stuck trying to use Burp for a PentesterLab exercise      |
 | Day 59    | This morning I realised how I could approach the Burp exercise. Head down and worked it out in 20 mins. Felt good to get it        |
@@ -100,7 +100,7 @@ My goal is to be able to identify web vulnerabilities and get on the bugcrowd le
 |     |  |
 | ----------- | ----------- |
 | Day 63    | Formatting daily log - put it into a markdown table. So much better to look at      |
-| Day 64    | Took a break to work on a fun project <https://github.com/hacker-playlists> |
+| Day 64    | Took a break to work on a [fun project](https://github.com/hacker-playlists) |
 | Day 65    | Fun project - email routing ftw. Using my domain and routing email to my other address. Saves money and don't have to use another service    |
 | Day 66    | Oof it's been a month away. Hunting has to be my main priority. Review notes     |
 | Day 67    | Need to get in a habit of PentesterLab  and then look for vuln in the wild - 🔬 start on broken access control. Authorization 06 ✅    |
@@ -111,7 +111,7 @@ My goal is to be able to identify web vulnerabilities and get on the bugcrowd le
 | Day 72 | Learning about encoding symbols (;) to solve Code Injection 02. Bug hunting on Bugcrowd. Submitted a report but deemed n/a. Quick response which was great. And helpful |
 |  Day 73 | Got really stumped with Code Injection 03. Need to make sure I add quotes around the start and end of strings (encoded quotes) |
 | Day 74    |  It took two mins to get the Code Injection 03 to work. Fresh set of eyes I guess 🤦🏼‍♂️ oof |
-| Day 75 | Watched an awesome talk on how to start and do cybersecurity research <https://www.youtube.com/live/uq4zaW9SyHk?si=SBbc3u2SkQ-BwO6H> |
+| Day 75 | Watched an awesome talk on [how to start and do cybersecurity research](https://www.youtube.com/live/uq4zaW9SyHk?si=SBbc3u2SkQ-BwO6H)|
 | Day 76 | Tip on SecTalks slack to start a homelab even with just a Raspberry Pi. It's been on the list for a while. 😅 Will make a start. But first back to PentesterLab Code Injection 04. pew pew |
 | Day 77 | Reviewed Code Execution 01 - 03, starting on 04. Submitted proposal to ComfyCon 🥔 🕹️ |
 
