@@ -4,7 +4,7 @@
 
 💉 do [pentesterlab's](https://pentesterlab.com/) essentials badge and authentication/authorization badge
 
-🐛 do a lab and then try to find on bugcrowd programs
+🐛 do a lab and then try to find it in a bugcrowd program 
 
 
 
