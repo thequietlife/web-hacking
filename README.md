@@ -1,4 +1,4 @@
-tl;dr
+## How to get started in bug bounty hunting 
 
 👑 read this blog post by [Codingo](https://codingo.com/posts/2021-04-04-bug-classes-starting-out/)
 
