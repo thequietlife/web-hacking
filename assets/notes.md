@@ -138,3 +138,4 @@ This week's goal is to finish the Essentials badge
 | Day 90 | Command Execution 01 ✅. Encoding characters |
 | Day 91 | Command Execution 02 ✅. This type of attack is called an command injection 💉 |
 | Day 92 | Command Execution 03 ✅. Another command to try. Directory Traversal 01 ✅ 🛗 |
+| Day 93 | Directory Traversal 02 ✅ |
