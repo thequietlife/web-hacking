@@ -140,3 +140,6 @@ This week's goal is to finish the Essentials badge
 | Day 92 | Command Execution 03 ✅. Another command to try. Directory Traversal 01 ✅ 🛗 |
 | Day 93 | Directory Traversal 02 ✅ 🛗 |
 | Day 94 | Directory Traversal 03 ✅ 🛗 |
+| Day 95 | File Include 01 ✅ |
+
+
