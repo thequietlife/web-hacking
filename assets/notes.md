@@ -137,9 +137,10 @@ This week's goal is to finish the Essentials badge
 | Day 89 | Code Execution 09 ✅. Feels good to have done this one so quickly. Trying to maintain a streak|
 | Day 90 | Command Execution 01 ✅. Encoding characters |
 | Day 91 | Command Execution 02 ✅. This type of attack is called an command injection 💉 |
-| Day 92 | Command Execution 03 ✅. Another command to try. Directory Traversal 01 ✅ 🛗 |
-| Day 93 | Directory Traversal 02 ✅ 🛗 |
-| Day 94 | Directory Traversal 03 ✅ 🛗 |
-| Day 95 | File Include 01 ✅ |
+| Day 92 | Command Execution 03 ✅. Another command to try. Directory Traversal 01 ✅ xxx/../../../../ |
+| Day 93 | Directory Traversal 02 ✅ /var/www/file.php |
+| Day 94 | Directory Traversal 03 ✅ %00 (null byte)| 
+| Day 95 | File Include 01 ✅ test_include.txt|
+| Day 96 | File Include 02 |
 
 
