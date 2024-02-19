@@ -6,7 +6,7 @@
 
 💉 do [pentesterlab's](https://pentesterlab.com/) essentials badge and authentication/authorization badge
 
-🐛 do a lab and then try to find that vulnerability in a bugcrowd program 
+🐛 do a lab and then try to find that vulnerability in a [bugcrowd](https://www.bugcrowd.com/) program 
 
 
 
