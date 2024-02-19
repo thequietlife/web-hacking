@@ -1,7 +1,7 @@
 
-# 🐞 bug bounty notes  
+# 💉 web hacking notes  
 
-Starting is hard, for me sticking with something is even harder. There is so much information out there about bug bounty hunting. It can be overwhelming. I am following Bugcrowd's Bug Bounty 101 run by InsiderPhD. And committing to putting in time everyday.
+Starting is hard, for me sticking with something is even harder. There is so much information out there about bug bounty hunting. It can be overwhelming. My learning resources are Bugcrowd's Bug Bounty 101 run by InsiderPhD and PentesterLab. I am committing to putting in time everyday.
 
 My goal is to be able to identify web vulnerabilities and get on the bugcrowd leaderboard.
 
