@@ -142,6 +142,7 @@ This week's goal is to finish the Essentials badge
 | Day 94 | Directory Traversal 03 ✅ %00 (null byte)| 
 | Day 95 | File Include 01 ✅ test_include.txt|
 | Day 96 | File Include 02 ✅ %00&c=uname|
-| Day 97 | File Include 03 ✅ took a break and looked at how the score needs to be injected. solved it straight away. tip: screenshot everything |
+| Day 97 | File Include 03 ✅ took a break and looked at how the score needs to be injected. solved it straight away. tip: screenshot everything. Lightweight Directory Access Protocol (LDAP) 01 ✅ copy as cURL|
+|Day 98| LDAP 02 WIP |
 
 
