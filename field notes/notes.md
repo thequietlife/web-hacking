@@ -146,5 +146,5 @@ This week's goal is to finish the Essentials badge
 | Day 98| LDAP 02 ✅ how to exploit a LDAP injection. MongoDB Injection 01 ✅ similar approach as sql injection. MongoDB Injection 02 wip |
 | Day 99 | MongoDB Injection 02 wip |
 | Day 100 ✨ | MongoDB Injection 02 wip. It's a biggie. Python script to help crack the password|
-
+| Day 101 | MongoDB Injection 02 wip |
 
