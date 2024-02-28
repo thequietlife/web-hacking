@@ -147,4 +147,6 @@ This week's goal is to finish the Essentials badge
 | Day 99 | MongoDB Injection 02 wip |
 | Day 100 ✨ | MongoDB Injection 02 wip. It's a biggie. Python script to help crack the password|
 | Day 101 | MongoDB Injection 02 wip |
+| Day 102 | MongoDB Injection 02 wip |
+
 
