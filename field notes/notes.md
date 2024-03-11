@@ -150,7 +150,7 @@ This week's goal is to finish the Essentials badge
 | Day 102 | MongoDB Injection 02 wip |
 | Day 103 | MongoDB Injection 02 🐍 script to cut down repetitive password cracking |
 | Day 104 | MongoDB Injection 02 wip. Stuck installing ruby/gem httparty. oof |
-| Day 105 | Figured out how to proceed. Installed ruby and httparty on PC |
+| Day 105 | Figured out how to proceed. Installed ruby and httparty on PC. Installed VIM on PC. Saved file|
 
 
 
