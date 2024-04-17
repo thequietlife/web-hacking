@@ -153,6 +153,7 @@ This week's goal is to finish the Essentials badge
 | Day 105 | Figured out how to proceed. Installed ruby and httparty on PC. Installed VIM on PC. Saved file |
 | Day 106 | MongoDB Injection 02 ✅ This was pretty feral. I realised I was updating the wrong ruby file. Anyways got there and that is sweet 🕺🏾|
 | Day 107 | CrikeyCon and then ComfyCon. Back to web-hacking next week |
+| Day 108 | Preparing for SecTalks Perth lightning talk 🌩️ |
 
 
 
