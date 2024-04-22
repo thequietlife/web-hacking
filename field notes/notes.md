@@ -154,6 +154,7 @@ This week's goal is to finish the Essentials badge
 | Day 106 | MongoDB Injection 02 ✅ This was pretty feral. I realised I was updating the wrong ruby file. Anyways got there and that is sweet 🕺🏾|
 | Day 107 | CrikeyCon and then ComfyCon. Back to web-hacking next week |
 | Day 108 | Preparing for SecTalks Perth lightning talk 🌩️ |
+| Day 109 | Back to PentesterLab. It's been a long while ⚒️ |
 
 
 
