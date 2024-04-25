@@ -155,6 +155,8 @@ This week's goal is to finish the Essentials badge
 | Day 107 | CrikeyCon and then ComfyCon. Back to web-hacking next week |
 | Day 108 | Preparing for SecTalks Perth lightning talk 🌩️ |
 | Day 109 | Back to PentesterLab. It's been a long while ⚒️ |
-| Day 110 | Solving Open Redirect 01 ✅ |
+| Day 110 | Solving Open Redirect 01 ✅. Copy link address and it has uri=/. Go to webhook.site. uri=https://webhook.site etc |
+| Day 110 | Solving Open Redirect 02 ✅. Now use uri=//www.google.com. Then use webhook.site and copy URL and add sfter uri=//https://webhook.site etc. But REMOVE the https to get redirected. Go to webhook.site to see request |
+| SQL Injection 01 |
 
 
