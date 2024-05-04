@@ -120,8 +120,8 @@ This week's goal is to finish the Essentials badge
 | ----------- | ----------- |
 | Day 78 | Ate the frog. Completed Code Execution 04 in 30 mins 🐸. Got back from walking the dog and went straight to PentesterLab. pew pew |
 | Day 79 | Code Execution 05 ✅. Bughunting on bugcrowd. Seeing something unexpected, need to look again |
-| Day 80 | Code Execution 06 ✅ |
-| Day 81 | Code Execution 07 ✅ Some days I can focus better. Managed to finish the exercise in about 30-45 mins focussed work. The key for me is to clear my head (write a list, don't open email,  slack or anything. Set the timer (sand clock) and eat the frog 🐸 |
+| Day 80 | Code Execution 06 ✅. |
+| Day 81 | Code Execution 07 ✅. Some days I can focus better. Managed to finish the exercise in about 30-45 mins focussed work. The key for me is to clear my head (write a list, don't open email,  slack or anything. Set the timer (sand clock) and eat the frog 🐸 |
 | Day 82 | Back from a huge break - 2 months. YT video Nahamsec, which also reminded me of things other bug bounty hunters have said about persistance |
 
 ### January - February 2024
@@ -138,12 +138,12 @@ This week's goal is to finish the Essentials badge
 | Day 90 | Command Execution 01 ✅. Encoding characters |
 | Day 91 | Command Execution 02 ✅. This type of attack is called an command injection 💉 |
 | Day 92 | Command Execution 03 ✅. Another command to try. Directory Traversal 01 ✅ xxx/../../../../ |
-| Day 93 | Directory Traversal 02 ✅ /var/www/file.php |
-| Day 94 | Directory Traversal 03 ✅ %00 (null byte)| 
-| Day 95 | File Include 01 ✅ test_include.txt|
-| Day 96 | File Include 02 ✅ %00&c=uname|
-| Day 97 | File Include 03 ✅ took a break and looked at how the score needs to be injected. solved it straight away. tip: screenshot everything. Lightweight Directory Access Protocol (LDAP) 01 ✅ copy as cURL|
-| Day 98| LDAP 02 ✅ how to exploit a LDAP injection. MongoDB Injection 01 ✅ similar approach as sql injection. MongoDB Injection 02 wip |
+| Day 93 | Directory Traversal 02 ✅. /var/www/file.php |
+| Day 94 | Directory Traversal 03 ✅. %00 (null byte)| 
+| Day 95 | File Include 01 ✅. test_include.txt|
+| Day 96 | File Include 02 ✅. %00&c=uname|
+| Day 97 | File Include 03 ✅. Took a break and looked at how the score needs to be injected. solved it straight away. tip: screenshot everything. Lightweight Directory Access Protocol (LDAP) 01 ✅ copy as cURL|
+| Day 98| LDAP 02 ✅. how to exploit a LDAP injection. MongoDB Injection 01 ✅. Similar approach as sql injection. MongoDB Injection 02 wip |
 | Day 99 | MongoDB Injection 02 wip |
 | Day 100 ✨ | MongoDB Injection 02 wip. It's a biggie. Python script to help crack the password|
 | Day 101 | MongoDB Injection 02 wip |
@@ -151,12 +151,12 @@ This week's goal is to finish the Essentials badge
 | Day 103 | MongoDB Injection 02 🐍 script to cut down repetitive password cracking |
 | Day 104 | MongoDB Injection 02 wip. Stuck installing ruby/gem httparty. oof |
 | Day 105 | Figured out how to proceed. Installed ruby and httparty on PC. Installed VIM on PC. Saved file |
-| Day 106 | MongoDB Injection 02 ✅ This was pretty feral. I realised I was updating the wrong ruby file. Anyways got there and that is sweet 🕺🏾|
+| Day 106 | MongoDB Injection 02 ✅. This was pretty feral. I realised I was updating the wrong ruby file. Anyways got there and that is sweet 🕺🏾|
 | Day 107 | CrikeyCon and then ComfyCon. Back to web-hacking next week |
 | Day 108 | Preparing for SecTalks Perth lightning talk 🌩️ |
 | Day 109 | Back to PentesterLab. It's been a long while ⚒️ |
 | Day 110 | Solving Open Redirect 01 ✅. Copy link address and it has uri=/. Go to webhook.site. uri=https://webhook.site etc |
 | Day 110 | Solving Open Redirect 02 ✅. Now use uri=//www.google.com. Then use webhook.site and copy URL and add sfter uri=//https://webhook.site etc. But REMOVE the https to get redirected. Go to webhook.site to see request |
-| SQL Injection 01 |
-
+| SQL Injection 01 ✅. Remember to add a space at the end of the injection|
+| SQL Injection 02 wip |
 
