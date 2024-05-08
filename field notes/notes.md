@@ -159,5 +159,5 @@ This week's goal is to finish the Essentials badge
 | Day 110 | Solving Open Redirect 02 ✅. Now use uri=//www.google.com. Then use webhook.site and copy URL and add sfter uri=//https://webhook.site etc. But REMOVE the https to get redirected. Go to webhook.site to see request |
 | SQL Injection 01 ✅. Remember to add a space at the end of the injection|
 | Day 111 | Read a cool blog post by Abartan Dhakal, Tips From A Bugbounty Hunter. [Had a look at google dorking] (https://www.secjuice.com/bugbounty-hunter/) 🫶 |
-| SQL Injection 02 wip |
+| Day 112 | SQL Injection 02 wip. Had a hunt and submitted a bug on Bugcrowd 🔍 |
 
