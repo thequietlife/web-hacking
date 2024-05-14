@@ -161,4 +161,4 @@ This week's goal is to finish the Essentials badge
 | Day 111 | Read a cool blog post by Abartan Dhakal, Tips From A Bugbounty Hunter. [Had a look at google dorking] (https://www.secjuice.com/bugbounty-hunter/) 🫶 |
 | Day 112 | SQL Injection 02 wip. Had a hunt and submitted a bug on Bugcrowd 🔍 |
 | Day 113 | Got a quick response from Bugcrowd. No luck. Will have another look. Back to SQL Injection 02 |
-
+| Day 114 | SQL Injection 02 ✅ use double quotes |
