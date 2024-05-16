@@ -162,3 +162,4 @@ This week's goal is to finish the Essentials badge
 | Day 112 | SQL Injection 02 wip. Had a hunt and submitted a bug on Bugcrowd 🔍 |
 | Day 113 | Got a quick response from Bugcrowd. No luck. Will have another look. Back to SQL Injection 02 |
 | Day 114 | SQL Injection 02 ✅ use double quotes |
+| Day 115 | SQL Injection 03 ✅ use LIMIT |
