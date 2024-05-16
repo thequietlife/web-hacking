@@ -124,7 +124,7 @@ This week's goal is to finish the Essentials badge
 | Day 81 | Code Execution 07 ✅. Some days I can focus better. Managed to finish the exercise in about 30-45 mins focussed work. The key for me is to clear my head (write a list, don't open email,  slack or anything. Set the timer (sand clock) and eat the frog 🐸 |
 | Day 82 | Back from a huge break - 2 months. YT video Nahamsec, which also reminded me of things other bug bounty hunters have said about persistance |
 
-### January - February 2024
+### January - May 2024
 
 |     |  |
 | ----------- | ----------- |
@@ -156,10 +156,10 @@ This week's goal is to finish the Essentials badge
 | Day 108 | Preparing for SecTalks Perth lightning talk 🌩️ |
 | Day 109 | Back to PentesterLab. It's been a long while ⚒️ |
 | Day 110 | Solving Open Redirect 01 ✅. Copy link address and it has uri=/. Go to webhook.site. uri=https://webhook.site etc |
-| Day 110 | Solving Open Redirect 02 ✅. Now use uri=//www.google.com. Then use webhook.site and copy URL and add sfter uri=//https://webhook.site etc. But REMOVE the https to get redirected. Go to webhook.site to see request |
-| SQL Injection 01 ✅. Remember to add a space at the end of the injection|
-| Day 111 | Read a cool blog post by Abartan Dhakal, Tips From A Bugbounty Hunter. [Had a look at google dorking] (https://www.secjuice.com/bugbounty-hunter/) 🫶 |
-| Day 112 | SQL Injection 02 wip. Had a hunt and submitted a bug on Bugcrowd 🔍 |
-| Day 113 | Got a quick response from Bugcrowd. No luck. Will have another look. Back to SQL Injection 02 |
-| Day 114 | SQL Injection 02 ✅ use double quotes |
-| Day 115 | SQL Injection 03 ✅ use LIMIT |
+| Day 111 | Solving Open Redirect 02 ✅. REMOVE the https to get redirected. Go to webhook.site to see request |
+| Day 112 | SQL Injection 01 ✅. Remember to add a space at the end of the injection|
+| Day 113 | Read a cool blog post by Abartan Dhakal, Tips From A Bugbounty Hunter. [Had a look at google dorking] (https://www.secjuice.com/bugbounty-hunter/) 🫶 |
+| Day 113 | SQL Injection 02 wip. Had a hunt and submitted a bug on Bugcrowd 🔍 |
+| Day 114 | Got a quick response from Bugcrowd. No luck. Will have another look. Back to SQL Injection 02 |
+| Day 115 | SQL Injection 02 ✅ use double quotes |
+| Day 116 | SQL Injection 03 ✅ use LIMIT |
