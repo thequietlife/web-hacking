@@ -163,3 +163,4 @@ This week's goal is to finish the Essentials badge
 | Day 114 | Got a quick response from Bugcrowd. No luck. Will have another look. Back to SQL Injection 02 |
 | Day 115 | SQL Injection 02 ✅ use double quotes |
 | Day 116 | SQL Injection 03 ✅ use LIMIT |
+| Day 117 | SQL Injection 04 wip. Burp - intercepting the request is not happening. Need to try again tomorrow |
