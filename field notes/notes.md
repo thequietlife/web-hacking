@@ -164,3 +164,6 @@ This week's goal is to finish the Essentials badge
 | Day 115 | SQL Injection 02 ✅ use double quotes |
 | Day 116 | SQL Injection 03 ✅ use LIMIT |
 | Day 117 | SQL Injection 04 wip. Burp - intercepting the request is not happening. Need to try again tomorrow |
+| Day 118 | Reread Lina Lau's Zero to Cyber Hero. List things to learn |
+| Day 119 | Realised why Burp wasn't working. I needed to log into my other profile
+on the mac. SQL Injection 04 ✅ |
