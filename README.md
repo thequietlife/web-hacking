@@ -1,4 +1,4 @@
-## How to get started in web hacking 
+## my web hacking learning plan
 
 💎 read this blog post by [Codingo](https://codingo.com/posts/2021-04-04-bug-classes-starting-out/)
 
